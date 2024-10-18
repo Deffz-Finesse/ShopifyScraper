@@ -1,0 +1,68 @@
+{
+    "title": "Blueberry Cloudd Elf Bar Elfa Pro Prefilled Pods",
+    "handle": "blueberry-cloudd-elf-bar-elfa-pro-prefilled-pods",
+    "vendor": "Elf Bar",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "20mg",
+        "Berries",
+        "Blueberry",
+        "Candy Floss",
+        "closed pods",
+        "Cotton Candy",
+        "Pre-Filled Pods",
+        "Vape Pods"
+    ],
+    "price": "4.95",
+    "description": "Blueberry Cloudd (Blueberry Cotton Candy) Elfa Pro Prefilled Pod by Elf Bar mesmerizes with juicy blueberries and airy cotton candy. Venture into this whimsical fusion, reminiscent of festive carnival days and blue skies. Elfa Pro Prefilled Pods have been exclusively designed with the Elfa Pro pod vape kit. Containing 2ml of e-liquid, each pod delivers up to 600 puffs, similar to disposable vapes . Infused with nic salts, they guarantee a smooth throat hit and rapidly reduce cravings. With these convenient prefilled pods, there's no need for refills or coil replacements. Once depleted, they can be easily disposed of. Each pod houses a QUAQ tech coil, boasting an ultra-fine mesh and absorbent wick, resulting in enhanced flavour. Drawing inspiration from the trendy blends of Elf Bar disposable vapes, Elfa Pro pod flavours offer a wide selection. This cost-effective pack of two pods are an excellent choice: they're as convenient as a disposable vape but at a significantly reduced price. Elf Bar is a reputable brand known for its exceptional disposable vapes and flavorful e-liquids. Their commitment to quality makes them a popular choice among vapers worldwide. ELF Bar ELFA Pro Pods Features: Flavour Profile: Blueberry, Cotton Candy 20mg Nicotine Salt Suitable for MTL Vapes Wide range of flavours Inspired by the World’s Leading Disposable Vape",
+    "created_at": "2023-08-31T17:28:28+01:00",
+    "updated_at": "2024-10-18T03:30:25+01:00",
+    "variants": [
+        {
+            "id": 43211111497897,
+            "product_id": 7781589123241,
+            "title": "Default Title",
+            "price": "4.95",
+            "sku": "EBELFAPROBLCL",
+            "position": 1,
+            "inventory_policy": "deny",
+            "compare_at_price": "5.95",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2023-08-31T17:28:28+01:00",
+            "updated_at": "2024-10-18T03:32:21+01:00",
+            "taxable": true,
+            "barcode": null,
+            "grams": 35,
+            "image_id": null,
+            "weight": 0.035,
+            "weight_unit": "kg",
+            "inventory_quantity": 40,
+            "old_inventory_quantity": 40,
+            "requires_shipping": true,
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP",
+            "quantity_price_breaks": []
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Blueberry-Cloud-Elf-Bar-Elfa-Pro-Prefilled-Pods-20mg.jpg?v=1710921417",
+            "alt": "Blueberry Cloud elf bar elfa pro prefilled pods",
+            "width": 1200,
+            "height": 1200
+        }
+    ],
+    "weight": 0.035,
+    "inventory_quantity": 40,
+    "compare_at_price": "5.95"
+}

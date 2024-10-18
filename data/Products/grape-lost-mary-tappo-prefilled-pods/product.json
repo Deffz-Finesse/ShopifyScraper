@@ -1,0 +1,66 @@
+{
+    "title": "Grape Lost Mary Tappo Prefilled Pods",
+    "handle": "grape-lost-mary-tappo-prefilled-pods",
+    "vendor": "Lost Mary",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "20mg",
+        "closed pods",
+        "Fruits",
+        "Grape",
+        "Pre-Filled Pods",
+        "Vape Pods"
+    ],
+    "price": "4.95",
+    "description": "Lost Mary Tappo Grape Pre-filled Replacement Pods offer vapers the taste of fresh, hand-picked grapes - this is a flavour that’s so authentic you almost expect the grape juice to explode across your tongue with each puff. Each and every pack of the Lost Mary Tappo pods comes with 2 replacement pods that have been preloaded with 2mls of flavoured nicotine salt vape liquid and feature a 2%/20mg strength nicotine. The Lost Mary Tappo pods have been made to be compatible with the Tappo Pod Kit by Lost Mary only, and shouldn’t be used with any other devices. The Tappo replacement pods are able to provide up to 600 puffs each, like the majority of TPD compliant prefilled vapes - this gives customers the chance to enjoy up to 1200 puffs per pack of two Lost Mary pods. Tappo Lost Mary pods are a cheaper, more cost effective and more sustainable substitute to the use of disposable vapes . There are currently more than 25 different Lost Mary Tappo flavours in the Lost Mary Tappo replacement pods - each of the available flavours is based on the same popular blends from the best selling BM600 disposable vapes , so you can now enjoy your favourite flavours for longer! Lost Mary Tappo Flavours: Apple Watermelon Banana Ice Blue Razz Blue Sour Raspberry Cherry Cola Cherry Ice Double Apple Grape Kiwi PassionFruit Guava Lemon Ice Lemon and Lime Maryturbo Mix Berries Peach Ice Pineapple Ice Pineapple PassionFruit Lemon Red Cherry Silky Tobacco Spearmint Strawberry Ice Strawberry Raspberry Triple Mango Tropical Fruit USA Mix Watermelon Lost Mary Tappo Pre-filled Replacement Pod Features: Flavour : Grape Pod Capacity : 2ml Nicotine Strength : 20mg (2%) Nicotine Type : Nicotine Salts TPD Compliant Prefilled Pods Compatible with Lost Mary Tappo Pod Kit Lost Mary Tappo Package Contains: 2x Lost Mary Tappo Grape Pre-filled Replacement Pods",
+    "created_at": "2024-03-14T14:50:40+00:00",
+    "updated_at": "2024-10-18T03:30:25+01:00",
+    "variants": [
+        {
+            "id": 43761905205417,
+            "product_id": 7940360110249,
+            "title": "Default Title",
+            "price": "4.95",
+            "sku": "LMTAPPGRAP",
+            "position": 1,
+            "inventory_policy": "deny",
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-03-14T14:50:41+00:00",
+            "updated_at": "2024-10-18T03:32:21+01:00",
+            "taxable": true,
+            "barcode": "6937643546364",
+            "grams": 50,
+            "image_id": null,
+            "weight": 0.05,
+            "weight_unit": "kg",
+            "inventory_quantity": 4,
+            "old_inventory_quantity": 4,
+            "requires_shipping": true,
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "price_currency": "GBP",
+            "compare_at_price_currency": "",
+            "quantity_price_breaks": []
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Lost-Mary-Tappo-Prefilled-Pods-Grape.jpg?v=1710821312",
+            "alt": "Grape lost mary Tappo disposable vape",
+            "width": 1200,
+            "height": 1200
+        }
+    ],
+    "weight": 0.05,
+    "inventory_quantity": 4,
+    "compare_at_price": ""
+}

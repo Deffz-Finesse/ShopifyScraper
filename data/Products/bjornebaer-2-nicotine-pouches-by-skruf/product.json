@@ -1,0 +1,59 @@
+{
+    "title": "Bjornebaer #2 Nicotine Pouches by Skruf",
+    "handle": "bjornebaer-2-nicotine-pouches-by-skruf",
+    "vendor": "Discontinued",
+    "product_type": "Nico Pods",
+    "tags": [
+        "flavour-main-menthol",
+        "flavour-mint",
+        "Killa",
+        "medium",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-16mg",
+        "Val22"
+    ],
+    "price": "5.99",
+    "description": "TRY SKRUF BJORNEBAER #2 BLACKBERRY NICOTINE POUCHES Bjornebaer #2 Nicotine Pouches by Skruf are jammed with the delicious flavours of freshly picked blackberries, giving you a deliciously sweet nicotine experience. KEY FEATURES: Blackberry flavoured nicotine pouches Delicious and efficiently satisfy nicotine cravings 8mg nicotine strength Tobacco-free, smoke-free and vapour-free Suitable for all environments Fits comfortably under your lip MORE ABOUT BLACKBERRY FLAVOURED NICOTINE POUCHES Skruf's Bjornebaer #2 nicotine pouches feature a deliciously sweet and fruity flavour with an irresistible aftertaste. The sweet flavour of the ripe blackberries are present throughout this pouch, delivering you an unbeatable nicotine experience. MORE ABOUT NICOTINE POUCHES Skruf's tobacco-free, slim nicotine pouches are perfect for discreet usage. Each pouch fits securely under your lip, offering you a discreet and effective nicotine experience. PACKAGE CONTENTS: 20 x Skruf Nicotine Pouches Brand Name: Skruf Product Type: Nicotine Pouches Pouch Format: Slim Strength: Medium Nicotine per Pouch (mg/pouch) 6.0 mg Flavour Name: Bjornebaer #2 Flavour: Blackcurrant Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2021-02-21T23:36:53+00:00",
+    "updated_at": "2024-10-18T03:32:26+01:00",
+    "variants": [
+        {
+            "id": 37929618178207,
+            "product_id": 6200656167071,
+            "title": "Default Title",
+            "price": "5.99",
+            "sku": "SKRUF-BJORNBAER",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2021-02-21T23:36:53+00:00",
+            "updated_at": "2024-10-18T03:32:28+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 30,
+            "image_id": null,
+            "weight": 30.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/products/Bjornebaer_2_Nicotine_Pouches_by_Skruf_6MG.jpg?v=1694701657",
+            "alt": "Bjornebaer #2 Nicotine Pouches by Skruf 6MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 30.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

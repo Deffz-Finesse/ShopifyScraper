@@ -1,0 +1,60 @@
+{
+    "title": "Avalanche Mint Nicotine Pouches by Klint",
+    "handle": "avalanche-mint-nicotine-pouches-by-klint",
+    "vendor": "Klint",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "extra-strong",
+        "flavour-main-menthol",
+        "flavour-mint",
+        "Klint",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-18mg",
+        "strength-25mg"
+    ],
+    "price": "5.49",
+    "description": "TRY KLINT AVALANCHE MINT NICOTINE POUCHES Introducing Avalanche Min t Nicotine Pouches by Klint , an exhilarating burst of refreshing mint flavor that will awaken your senses and provide a satisfying nicotine experience. These carefully crafted pouches deliver a strong and invigorating sensation that is sure to leave you feeling refreshed and revitalized. View all Klint Nicotine Pouches View all Mint/Menthol Pouches View all Low Strength Pouches KEY FEATURES: Mint & Menthol flavoured nicotine pouches 25mg Per Gram | 17.5mg Per Pouch Tobacco-free, smoke-free and vapour-free 20 pouches in each can MORE ABOUT MINT FLAVOURED NICOTINE POUCHES With each inhale, mint flavor delivers a burst of freshness that instantly awakens and revitalizes your palate. The crisp and clean taste of mint creates a cooling sensation that leaves a refreshing tingle on your tongue, providing a truly invigorating experience. The flavor profile of mint is characterized by its signature blend of sweetness and a slightly herbal undertone. This unique combination adds depth and complexity to the overall taste, making it an appealing choice for those seeking a refreshing and satisfying flavor experience. MORE ABOUT KLINT NICOTINE POUCHES Klint is the premium, all-white, tobacco-free nicotine portion for the elegant lifestyle that gives you the convenience of a fresh nicotine boost, wherever you are, whenever you want. Simply choose from one of the six flavours that best matches your taste, place it under your lip and get on with your day. Additional Description Information: Brand Name: Klint Product Type: Nicotine Pouches Pouch Format: Large Our Strength Rating: Extra Strong Nicotine per Pouch (mg/pouch): 17.5 MG Flavour Name: Avalanche Mint Flavour: Mint & Menthol Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2023-07-14T16:14:03+01:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 44167303626978,
+            "product_id": 8116796358882,
+            "title": "Default Title",
+            "price": "5.49",
+            "sku": "KLINT-AVALANCHE-MINT-NO6",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2023-07-14T16:14:03+01:00",
+            "updated_at": "2024-10-18T03:32:21+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Avalanche_Mint_Nicotine_Pouches_by_Klint_25MG.jpg?v=1694703538",
+            "alt": "Avalanche Mint Nicotine Pouches by Klint 25MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

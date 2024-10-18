@@ -1,0 +1,68 @@
+{
+    "title": "Logic Compact Intense Pods - Berry Mint",
+    "handle": "logic-compact-intense-pods-berry-mint",
+    "vendor": "Logic",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "18mg",
+        "Berries",
+        "Berry",
+        "closed pods",
+        "E-liquids Clearance",
+        "mint",
+        "Pre-Filled Pods",
+        "Vape Pods"
+    ],
+    "price": "3.00",
+    "description": "A fruity and refreshing blend of red berry's and menthol. Logic Compact pods are designed to be used with a Logic Compact device. The magnetic pre-filled e-liquid pods can be changed in seconds, so switching flavours is quick. Just click in a pod and you're ready to vape. Our pods contain e-liquids that are made in Europe to high quality and safety standards. Each pod contains 1.7ml of e-liquid. Features; Salt Nicotine 1.7ml Pod Capacity Magnetic Fit Package Contents: 1 x Pack of 2 Logic Compact Intense Pods",
+    "created_at": "2021-05-04T16:31:47+01:00",
+    "updated_at": "2024-10-18T03:32:23+01:00",
+    "variants": [
+        {
+            "id": 40408685445289,
+            "product_id": 6973851828393,
+            "title": "18mg",
+            "price": "3.00",
+            "sku": "LCPODINBEMI18",
+            "position": 1,
+            "inventory_policy": "deny",
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "18mg",
+            "option2": null,
+            "option3": null,
+            "created_at": "2021-05-04T16:31:47+01:00",
+            "updated_at": "2024-10-18T03:32:29+01:00",
+            "taxable": true,
+            "barcode": null,
+            "grams": 30,
+            "image_id": null,
+            "weight": 0.03,
+            "weight_unit": "kg",
+            "inventory_quantity": 2,
+            "old_inventory_quantity": 2,
+            "requires_shipping": true,
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "price_currency": "GBP",
+            "compare_at_price_currency": "",
+            "quantity_price_breaks": []
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0241/2241/products/Berry-Mint_dad76e17-db8c-46ab-9c21-2bb35a83d7dd.jpg?v=1637250574",
+            "alt": "Berry Mint Logic Compact Intense Pre-filled Pods",
+            "width": 600,
+            "height": 600
+        }
+    ],
+    "weight": 0.03,
+    "inventory_quantity": 2,
+    "compare_at_price": ""
+}

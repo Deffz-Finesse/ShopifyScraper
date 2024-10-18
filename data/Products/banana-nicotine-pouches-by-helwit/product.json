@@ -1,0 +1,62 @@
+{
+    "title": "Banana Nicotine Pouches by Helwit",
+    "handle": "banana-nicotine-pouches-by-helwit",
+    "vendor": "Helwit",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "flavour-banana",
+        "flavour-main-dessert",
+        "flavour-main-drinks",
+        "flavour-main-fruity",
+        "flavour-main-sweets",
+        "medium",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-4mg",
+        "strength-7mg"
+    ],
+    "price": "5.49",
+    "description": "TRY HELWIT BANANA NICOTINE POUCHES Banana by Helwit nicotine pouches has a taste of banana, everyone´s favourite tropical fruit. Enjoy a combined flavour of fresh and sweet bananas. View all Helwit Pouches View all Fruity Pouches View all Medium Pouches Banana-flavoured nicotine pouches Recommended for experienced users 7mg Per Gram | 3.5mg Per Pouch Tobacco-free, smoke-free and vapour-free 20 pouches in each can MORE ABOUT HELWIT FLAVOURED NICOTINE POUCHES Helwit is a new All White brand from Yoik. Helwit is created in Yoik's climate-smart factory in Gransholms Bruk outside Växjö, Sweden. The factory is self-sufficient through a hydropower plant located very close to the factory. Sustainability is in focus! MORE ABOUT BANANA NICOTINE POUCHES A deliciously sweet flavour with a fresh aftertaste. The taste of banana with the slight fresh mint for a refreshing nicotine experience. Additional Description Information: Brand Name: Helwit Product Type: Nicotine Pouches Pouch Format: Slim Our Strength Rating: Medium Nicotine per Pouch (mg/pouch) 7 MG Flavour Name: Banana Flavour: Fruity Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2024-06-11T13:20:57+01:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 45561082609890,
+            "product_id": 8598205956322,
+            "title": "Default Title",
+            "price": "5.49",
+            "sku": "HELWIT-BANANA-2/4",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-06-11T13:20:57+01:00",
+            "updated_at": "2024-10-18T03:32:23+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Banana_Nicotine_Pouches_by_Helwit_7MG.jpg?v=1718655926",
+            "alt": "Banana Nicotine Pouches by Helwit 7MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Berry Madness Nicotine Pouches by FEDRS Stripe",
+    "handle": "berry-madness-nicotine-pouches-by-fedrs-stripe",
+    "vendor": "Discontinued",
+    "product_type": "Nico Pods",
+    "tags": [
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV"
+    ],
+    "price": "5.99",
+    "description": "TRY FEDRS STRIPE BERRY MADDNESS NICOTINE POUCHES Berry Madness nicotine pouches by FEDRS is a delightful flavor that captures the essence of plump, juicy blueberries in every puff. The sweet and tangy notes of this luscious berry flavor are perfectly balanced to create a taste sensation that will awaken your senses and brighten your mood. With its irresistible taste, Blueberry Madness is the perfect companion to uplift your spirits and fill your day with bursts of joy. Don't miss out on this deliciously creative flavor that's sure to put a smile on your face! KEY FEATURES: Blueberry flavoured nicotine pouches Refreshing tingling sensation with each pouch 20mg nicotine strength (Very Strong) Tobacco-free, smoke-free and vapour-free Discreet and suitable for all occasions Excellent nicotine experience MORE ABOUT BLUEBERRY ICE FLAVOURED NICOTINE POUCHES Immerse yourself in the succulent taste of plump, ripe blueberries with our Blueberry Madness flavor. These small, juicy berries are known for their vibrant blue hue and natural sweetness. Each puff of our blueberry-flavored e-liquid captures the essence of freshly picked blueberries, with their deliciously tangy and slightly sweet notes dancing on your taste buds. The burst of berry goodness is sure to delight your senses and leave you craving for more. Whether you're a blueberry enthusiast or simply looking for a fruity flavor that's both refreshing and satisfying, our Blueberry Madness is the perfect choice. Experience the joy of this irresistible flavor and let it bring a burst of nature's goodness to your vaping experience! MORE ABOUT FEDRS NICOTINE POUCHES FEDRS is a leading European manufacturer of high-quality nicotine products, committed to constant development and innovation. With a devoted global community of fans, FEDRS is known for its innovative approaches to nicotine consumption and unwavering commitment to product quality. Join FEDRS on their exciting journey as they pave the way in the industry! PACKAGE CONTENTS 20 x Berry Madness Nicotine Pouches Additional Description Information: Brand Name: FEDRS Product Type: Nicotine Pouches Pouch Format: Large Strength: Extra Strong Nicotine per Pouch (mg/pouch): 20 MG Flavour Name: Berry Madness Flavour: Fruity Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2023-04-24T21:29:37+01:00",
+    "updated_at": "2024-10-18T03:32:26+01:00",
+    "variants": [
+        {
+            "id": 44044023955682,
+            "product_id": 8080580575458,
+            "title": "Extra Strong (20MG)",
+            "price": "5.99",
+            "sku": "FEDRS-STRIPE-BERRY-MADNESS",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Extra Strong (20MG)",
+            "option2": null,
+            "option3": null,
+            "created_at": "2023-04-24T21:29:37+01:00",
+            "updated_at": "2024-10-18T03:32:28+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Berry_Madness_Nicotine_Pouches_by_FEDRS_Stripe_20MG.jpg?v=1694703962",
+            "alt": "Berry Madness Nicotine Pouches by FEDRS Stripe 20MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

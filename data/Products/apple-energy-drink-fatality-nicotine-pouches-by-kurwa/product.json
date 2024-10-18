@@ -1,0 +1,53 @@
+{
+    "title": "Apple Energy Drink Fatality Nicotine Pouches by KURWA",
+    "handle": "apple-energy-drink-fatality-nicotine-pouches-by-kurwa",
+    "vendor": "Discontinued",
+    "product_type": "Nico Pods",
+    "tags": [
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV"
+    ],
+    "price": "4.99",
+    "description": "TRY KURWA APPLE ENERGY DRINK FATALITY NICOTINE POUCHES Apple Energy Drink Fatality Nicotine Pouches by Kurwa offers a wonderful fusion of strong flavour and energising energy. With the delight of nicotine usage, these cutting-edge pouches are created to give an explosive apple-infused rush of flavour mixed with the energising qualities of an energy drink. KEY FEATURES: Apple Energy flavoured nicotine pouches 36MG Extra Strong pouches Perfect option for those looking to quit smoking Effective nicotine absorption Tobacco-free, smoke-free and vapour-free Suitable for all environments. MORE ABOUT APPLE ENERGY FLAVOURED NICOTINE POUCHES Apple Energy flavour combine two worlds in a lovely way: the crisp, refreshing flavour of ripe apples and the energising surge of nicotine bliss. For people who value the flavorful and gratifying balance of nicotine and flavour, these pouches are painstakingly made to deliver a memorable and fulfilling experience. A delectable and genuine taste that perfectly portrays the sensation of biting into a luscious, perfectly ripe apple is delivered by the apple flavour, which is the star of the show. The taste buds are delighted by the flavour, which is sweet and energising. MORE ABOUT KURWA FATALITY NICOTINE POUCHES Experience bold innovation with Kurwa Fatality Nicotine Pouches, where nicotine satisfaction soars. Enjoy a diverse selection of intense flavors, from fruity explosions to refreshing mint sensations. Each pouch is expertly crafted to tantalize your senses. Theses are a potent Nicotine pouch Fatality offers a extra strong nicotine experience with precise, controlled release. Tailor your satisfaction with a choice of nicotine strengths. Additional Description Information: Brand Name: KURWA Product Type: Nicotine Pouches Pouch Format: Slim Our Strength Rating: Extra Strong Nicotine per Pouch (mg/pouch) 36MG Flavour Name: Apple Energy Flavour: Drinks Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2023-09-04T16:21:44+01:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 44330040787170,
+            "product_id": 8147727352034,
+            "title": "Extra Strong (36MG)",
+            "price": "4.99",
+            "sku": "KURWA-APPLE-ENERGY-DRINK",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Extra Strong (36MG)",
+            "option2": null,
+            "option3": null,
+            "created_at": "2023-09-04T16:21:44+01:00",
+            "updated_at": "2024-10-18T03:32:15+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Apple_Energy_Drink_Fatality_Nicotine_Pouches_by_KURWA_46.9MG.jpg?v=1694703467",
+            "alt": "Apple Energy Drink Fatality Nicotine Pouches by KURWA 36MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

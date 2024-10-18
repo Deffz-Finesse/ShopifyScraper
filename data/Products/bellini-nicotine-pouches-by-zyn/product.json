@@ -1,0 +1,83 @@
+{
+    "title": "Bellini Nicotine Pouches By Zyn",
+    "handle": "bellini-nicotine-pouches-by-zyn",
+    "vendor": "Discontinued",
+    "product_type": "Nico Pods",
+    "tags": [
+        "nicotine-warnings",
+        "SKIP_AV"
+    ],
+    "price": "6.50",
+    "description": "TRY ZYN BELLINI NICOTINE POUCHES Bellini Nicotine Pouches by ZYN is inspired by the popular Italian cocktail. A refreshing taste of peach with nuances of fruit tea and green grapes. KEY FEATURES: Peach and grape flavoured nicotine pouches Excellent for quitting smoking Effective nicotine satisfaction Tobacco-free, smoke-free and vapour-free Suitable for all environments Fits comfortably under your lip MORE ABOUT FRUITY FLAVOURED NICOTINE POUCHES The all-white nicotine pouches deliver an Italian cocktail feeling of enjoying a drink on a warm sunny day by the Mediterranean Sea. With a burst of peach, fruit tea and green grape flavours, providing you with an irresistible flavour as well as an efficient nicotine kick. MORE ABOUT NICOTINE POUCHES Zyn's tobacco-free nicotine pouches allow you to have your nicotine buzz, whenever and wherever you choose. Each pouch fits securely under your lip, offering you a discreet and effective nicotine experience. Zyn's pouches are available in range of flavours and strengths, so make sure you check out the rest of the range. PACKAGE CONTENTS: 20 x Zyn Bellini Nicotine Pouches Brand Name: Zyn Product Type: Nicotine Pouches Pouch Format: Mini Strength: Mild Nicotine per Pouch (mg/pouch) 3 MG 6MG Flavour Name: Citrus Mini Flavour: Lemon and Lime Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2022-02-09T21:03:34+00:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 42463464587490,
+            "product_id": 7600090677474,
+            "title": "Mild 3MG",
+            "price": "6.50",
+            "sku": "ZYN-BELLINI-NORMAL-3MG",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Mild 3MG",
+            "option2": null,
+            "option3": null,
+            "created_at": "2022-02-09T21:03:34+00:00",
+            "updated_at": "2024-10-18T03:32:24+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": 36675347316962,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        },
+        {
+            "id": 43067934671074,
+            "product_id": 7600090677474,
+            "title": "Mild 6MG",
+            "price": "6.50",
+            "sku": "",
+            "position": 2,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Mild 6MG",
+            "option2": null,
+            "option3": null,
+            "created_at": "2022-07-03T20:21:38+01:00",
+            "updated_at": "2024-10-18T03:32:24+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/products/Bellini_Nicotine_Pouches_By_Zyn_3MG_2.jpg?v=1694698823",
+            "alt": "Bellini Nicotine Pouches By Zyn 3MG",
+            "width": 800,
+            "height": 800
+        },
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/products/Bellini_Nicotine_Pouches_By_Zyn_3MG.jpg?v=1694698807",
+            "alt": "Bellini Nicotine Pouches By Zyn 3MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

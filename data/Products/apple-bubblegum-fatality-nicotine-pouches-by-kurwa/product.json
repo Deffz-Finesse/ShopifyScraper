@@ -1,0 +1,53 @@
+{
+    "title": "Apple Bubblegum Fatality Nicotine Pouches by KURWA",
+    "handle": "apple-bubblegum-fatality-nicotine-pouches-by-kurwa",
+    "vendor": "Discontinued",
+    "product_type": "Nico Pods",
+    "tags": [
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV"
+    ],
+    "price": "5.99",
+    "description": "TRY KURWA APPLE BUBBLEGUM FATALITY NICOTINE POUCHES Apple Bubblegum Fatality Nicotine Pouches by Kurwa combine the crisp, juicy flavour of ripe apples with the nostalgic sweetness of iconic bubblegum. The apple flavour offers a pleasant and fruity touch, while the bubblegum flavour lends a nostalgic, sugary note. It's a well-balanced blend of citrus freshness and sweet nostalgia. Bubblegum flavoured nicotine pouches 36MG Extra Strong pouches Perfect option for those looking to quit smoking Effective nicotine absorption Tobacco-free, smoke-free and vapour-free Suitable for all environments. MORE ABOUT APPLE BUBBLEGUM FLAVOURED NICOTINE POUCHES Apple Bubblegum flavour is a delectable combination of crisp and juicy flavours of ripe apples with the sweet reminiscence of classic bubblegum. This distinct flavour profile provides a lively and entertaining tasting experience. The apple flavour offers a pleasant and tangy twist, similar to biting into a fresh apple, while the bubblegum flavour adds a familiar sugary note. MORE ABOUT KURWA FATALITY NICOTINE POUCHES Experience bold innovation with Kurwa Fatality Nicotine Pouches, where nicotine satisfaction soars. Enjoy a diverse selection of intense flavors, from fruity explosions to refreshing mint sensations. Each pouch is expertly crafted to tantalize your senses. Theses are a potent Nicotine pouch Fatality offers a extra strong nicotine experience with precise, controlled release. Tailor your satisfaction with a choice of nicotine strengths. Additional Description Information: Brand Name: KURWA Product Type: Nicotine Pouches Pouch Format: Slim Our Strength Rating: Extra Strong Nicotine per Pouch (mg/pouch) 36 MG Flavour Name: Apple Bubblegum Flavour: Sweets Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2023-09-25T10:22:40+01:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 44362124591330,
+            "product_id": 8155933376738,
+            "title": "Extra Strong (36MG)",
+            "price": "5.99",
+            "sku": "KURWA-APPLE-BUBBLEGUM",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Extra Strong (36MG)",
+            "option2": null,
+            "option3": null,
+            "created_at": "2023-09-25T10:22:40+01:00",
+            "updated_at": "2024-10-18T03:32:15+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Apple_Bubblegum_Fatality_Nicotine_Pouches_by_KURWA_46.9MG.jpg?v=1695649764",
+            "alt": "Apple Bubblegum Fatality Nicotine Pouches by KURWA 36MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

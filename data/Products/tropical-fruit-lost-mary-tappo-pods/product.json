@@ -1,0 +1,66 @@
+{
+    "title": "Tropical Fruit Lost Mary Tappo Prefilled Pods",
+    "handle": "tropical-fruit-lost-mary-tappo-pods",
+    "vendor": "Lost Mary",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "20mg",
+        "closed pods",
+        "Passionfruit",
+        "Pre-Filled Pods",
+        "Tropical Fruit",
+        "Vape Pods"
+    ],
+    "price": "4.95",
+    "description": "Discover Lost Mary Tappo pre-filled replacement pods, available in packs of 2. Each pod contains 2ml of 20mg nic salt vape liquid & lasts up to 600 puffs. Indulge your senses with the Lost Mary Tappo Tropical Fruit Pre-filled Replacement Pods; a tasty tropical temptation filled to the brim with exotic fruity flavours. Each pack contains 2 pre-filled pods filled with 20mg (2%) nic salt e-liquid and has been designed for exclusive use with the Tappo Pod Kit by Lost Mary . These pre-filled replacement pods last for approximately 600 puffs before they need to be replaced, making them a cheap alternative for those looking to stop using Disposable Vapes. The Lost Mary Tappo replacement pods come in 15 different flavours, the same flavours as the popular BM600 Disposable Vapes . Lost Mary Tappo Pre-filled Replacement Pod Flavours: Banana Ice Blue Razz Blue Sour Raspberry Cherry Cola Kiwi PassionFruit Guava Lemon and Lime Maryturbo Mix Berries Peach Ice Spearmint Strawberry Ice Strawberry Raspberry Tropical Fruit USA Mix Watermelon Lost Mary Tappo Pre-filled Replacement Pod Features: Flavour: Tropical Fruits Capacity: 2ml Nicotine Strength: 20mg (2%) Nicotine Type: Nicotine Salts TPD Compliant Prefilled Pods Compatible with Lost Mary Tappo Pod Kit Lost Mary Tappo Package Contains: 2x Lost Mary Tappo Tropical Fruit Pre-filled Replacement Pods",
+    "created_at": "2023-10-11T18:07:19+01:00",
+    "updated_at": "2024-10-18T03:30:25+01:00",
+    "variants": [
+        {
+            "id": 43283584581801,
+            "product_id": 7797372747945,
+            "title": "Default Title",
+            "price": "4.95",
+            "sku": "LMTAPPTRFR",
+            "position": 1,
+            "inventory_policy": "deny",
+            "compare_at_price": "5.95",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2023-10-11T18:07:19+01:00",
+            "updated_at": "2024-10-18T03:32:14+01:00",
+            "taxable": true,
+            "barcode": null,
+            "grams": 50,
+            "image_id": null,
+            "weight": 0.05,
+            "weight_unit": "kg",
+            "inventory_quantity": 10,
+            "old_inventory_quantity": 10,
+            "requires_shipping": true,
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP",
+            "quantity_price_breaks": []
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/lost-mary-tappo-pods-pack-of-2-tropical-fruit.jpg?v=1697125036",
+            "alt": "Tropical Fruit lost mary Tappo Two Prefilled Pods",
+            "width": 1200,
+            "height": 1200
+        }
+    ],
+    "weight": 0.05,
+    "inventory_quantity": 10,
+    "compare_at_price": "5.95"
+}

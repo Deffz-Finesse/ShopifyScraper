@@ -1,0 +1,65 @@
+{
+    "title": "Cola & Cherry Nicotine Pouches By 77",
+    "handle": "cola-cherry-nicotine-pouches-by-77",
+    "vendor": "77",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "77",
+        "extra-strong",
+        "flavour-cherry",
+        "flavour-cola",
+        "flavour-drinks",
+        "flavour-main-drinks",
+        "flavour-main-fruity",
+        "flavour-main-sweets",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-13mg",
+        "strength-20mg",
+        "strong"
+    ],
+    "price": "3.99",
+    "description": "TRY 77 COLA & CHERRY NICOTINE POUCHES Cola & Cherry nicotine pouches by 77 is a flavour of cherry and cola comes directly from requests from his followers, as does the high nicotine content. This nicotine pouch is sweet with a somewhat bitter undertone along with a rich and full-bodied flavour of cola. View all 77 Pouches View all Fruity Pouches View all Drinks Pouches View all Extra Strong Pouches KEY FEATURES: 20MG Per Gram | 13MG Per Pouch Cola & Cherry flavoured nicotine pouches Recommended for experienced users Tobacco-free, smoke-free and vapour-free 20 pouches in each can MORE ABOUT COLA & CHERRY FLAVOURED NICOTINE POUCHES Trying to describe what cola tastes like is proven to be most difficult since cola is created from a vast compound of different flavours. Cola has aromas from citrus fruits, like lemon, orange, and lime, and from spices such as cinnamon and nutmeg, even vanilla can be hinted from the sweet blend that is cola. MORE ABOUT 77 NICOTINE POUCHES 77 were the first Polish brand of tobacco-free nicotine pouches. 77 offers one of the most diverse ranges of flavour on the market, 77 also hit the sweet spot with their nicotine levels. Switch up, switch down, mix and match – do whatever suits you best! Flavours range from different types of mint to peach, apple, strawberries, and even classic tobacco. Additional Description Information: Brand Name: 77Pouches Product Type: Nicotine Pouches Pouch Format: Large Our Strength Rating: Extra Strong Nicotine per Gram 20 MG Nicotine per Pouch 13 MG Flavour Name: Cola & Cherry Flavour: Drinks Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2022-09-27T21:05:01+01:00",
+    "updated_at": "2024-10-18T03:07:27+01:00",
+    "variants": [
+        {
+            "id": 43438471610594,
+            "product_id": 7897280544994,
+            "title": "Default Title",
+            "price": "3.99",
+            "sku": "77-COLA-CHERRY",
+            "position": 1,
+            "compare_at_price": "5.49",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2022-09-27T21:05:01+01:00",
+            "updated_at": "2024-10-18T03:07:28+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Cola_Cherry_Nicotine_Pouches_By_77_20MG.jpg?v=1701182643",
+            "alt": "Cola & Cherry Nicotine Pouches By 77 20MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": "5.49"
+}

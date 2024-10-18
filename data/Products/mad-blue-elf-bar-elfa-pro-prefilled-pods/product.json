@@ -1,0 +1,65 @@
+{
+    "title": "Mad Blue Elf Bar Elfa Pro Prefilled Pods",
+    "handle": "mad-blue-elf-bar-elfa-pro-prefilled-pods",
+    "vendor": "Elf Bar",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "20mg",
+        "Berries",
+        "Mad Blue",
+        "Pre-Filled Pods",
+        "Vape Pods"
+    ],
+    "price": "4.95",
+    "description": "Discover Mad Blue Elfa Pro Prefilled Pods - a beautiful blend of berries by Elf Bar . Elf Bar Elfa Pro Mad Blue Prefilled Pods are a fruity fusion featuring soft, sweet blueberries that have been paired with bold blackberry undertones and rich, juicy raspberries. This flavoursome concoction has been finished off with a touch of ice to provide you with a cool berry blend that’ll tempt your taste buds with every inhale. If you’re bonkers about berries you’re going to want to try these Mad Blue Elf Bar pods! Elf Bar Elfa Pro Pods are prefilled pods that have been preloaded with 2ml of nicotine salt vape juice in a 20mg nicotine strength - which is the same as the 2% strength that you may have seen marked on disposable vapes , like the original Elf Bar Disposable Vape . The Elfa Pro Elf Bar Pods also feature an upgraded QUAQ mesh coil for better flavour and vapour production - so every puff is as enjoyable as the first. Elfa Pro pods have been designed to be as easy to use as possible - there’s no need to refill them or change any coils - simply push in the bottom of the pod (the pod’s base) and let the pod sit for a minute before inserting it into your Elf Bar Elfa Pod Vape . Once the vape juice is absorbed into the pod’s coil all you need to do is puff on the mouthpiece to get going! Elf Bar Elfa Pro pods are available as a pack of 2 - the Elf Bar Elfa Pro vape is sold separately. Mad Blue Elfa Pro Pods Specs Flavour: Blueberry, Raspberry, Blackberry, Cool E-Liquid Capacity: 2ml Nicotine Strength: 20mg (2%) Nicotine Type: Nicotine Salt Puff Count: Up to 600 Vape Type: MTL/Mouth to Lung Compatible With : Elf Bar Elfa Pro Pod Vape Kit Mad Blue Elfa Pro Pods Include: 2x Mad Blue Elf Bar Elfa Pro Pods",
+    "created_at": "2024-01-31T11:06:59+00:00",
+    "updated_at": "2024-10-18T03:32:23+01:00",
+    "variants": [
+        {
+            "id": 43609345458345,
+            "product_id": 7897442549929,
+            "title": "Default Title",
+            "price": "4.95",
+            "sku": "EBELFAPROMABL",
+            "position": 1,
+            "inventory_policy": "deny",
+            "compare_at_price": "0.00",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-01-31T11:06:59+00:00",
+            "updated_at": "2024-10-18T03:32:27+01:00",
+            "taxable": true,
+            "barcode": null,
+            "grams": 35,
+            "image_id": null,
+            "weight": 0.035,
+            "weight_unit": "kg",
+            "inventory_quantity": 4,
+            "old_inventory_quantity": 4,
+            "requires_shipping": true,
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP",
+            "quantity_price_breaks": []
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Elf-Bar-Elfa-Pro-Prefilled-Pods-Mad-Blue.jpg?v=1707889997",
+            "alt": "Made Blue elf bar elfa pro pre filled pods",
+            "width": 1200,
+            "height": 1200
+        }
+    ],
+    "weight": 0.035,
+    "inventory_quantity": 4,
+    "compare_at_price": "0.00"
+}

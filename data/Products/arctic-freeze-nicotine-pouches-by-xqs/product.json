@@ -1,0 +1,62 @@
+{
+    "title": "Arctic Freeze Nicotine Pouches by XQS",
+    "handle": "arctic-freeze-nicotine-pouches-by-xqs",
+    "vendor": "XQS",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "extra-strong",
+        "flavour-main-menthol",
+        "flavour-mint",
+        "flavour-peppermint",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-11mg",
+        "strength-16mg",
+        "strong",
+        "xqs"
+    ],
+    "price": "5.49",
+    "description": "TRY XQS ARTIC FREEZE NICOTINE POUCHES Nicotine Pouches by XQS A unique combination of flavour and strength makes this product stand out in the vast world of nicotine pouches. XQS Arctic Freeze Extra Strong is more than just a nicotine pouch ; it's an experience that takes you to a new level. Each pouch is a refreshing escape with a refreshing mint flavour that cools your senses. Enjoy your moment anytime, anywhere thanks to the slim format's discreet and comfortable fit. View all XQS Pouches View all Mint/Menthol Pouches View all Medium Strength Pouches KEY FEATURES: Mint-flavoured nicotine pouches 11.2mg per gram Tobacco-free, smoke-free and vapour-free 20 pouches in each can MORE ABOUT XQS NICOTINE POUCHES XQS Nicotine Pouches were designed to offer an unforgettable experience with delicious flavours and a completely different feel. Nicotine pouches from XQS are very promising newcomers to the market. XQS has created many original and unique flavours that the market has never seen. No matter which flavour you choose, XQS is known for its nicotine-free alternatives. Shop more XQS nicotine pouches by clicking here . XQS offers a wide range of nicotine pouch flavours, catering to different preferences. Shop all the flavours now . Additional Description Information: Brand Name: XQS Product Type: Nicotine Pouches Pouch Format: Slim Our Strength Rating: Strong Nicotine per Gram 11.2 MG Flavour Name: Artic Freeze Flavour: Mint & Menthol Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2024-06-04T09:26:27+01:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 45543705346274,
+            "product_id": 8584700887266,
+            "title": "Default Title",
+            "price": "5.49",
+            "sku": "XQS-ARTIC-FREEZE",
+            "position": 2,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-06-06T14:57:48+01:00",
+            "updated_at": "2024-10-18T03:32:20+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Arctic_Freeze_Nicotine_Pouches_by_XQS_11.2MG_2.jpg?v=1721987195",
+            "alt": "Arctic Freeze Nicotine Pouches by XQS 11.2MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

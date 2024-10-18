@@ -1,0 +1,512 @@
+{
+    "title": "Elf Bar 4 in 1 Prefilled Pods",
+    "handle": "elf-bar-4-in-1-prefilled-pods",
+    "vendor": "Elf Bar",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "20mg",
+        "Berries",
+        "Blue Raspberry",
+        "Blueberry",
+        "Cherry",
+        "Citrus Fruits",
+        "closed pods",
+        "Fruits",
+        "Guava",
+        "ice",
+        "Kiwi",
+        "Lemon",
+        "Lemonade",
+        "Lime",
+        "New Hardware",
+        "Passion Fruit",
+        "Pineapple",
+        "Pink Lemonade",
+        "Pre-Filled Pods",
+        "Raspberry",
+        "Sour",
+        "Tropical Fruits",
+        "Vape Clearance",
+        "Vape Pods",
+        "Watermelon"
+    ],
+    "price": "6.99",
+    "description": "The Elf Bar 4 in 1 pods are a pack of 2 prefilled pods , designed for use alongside the Elf Bar 4 in 1 prefilled pod kit. Each pod has been filled with 2ml of flavoured nicotine salt vape juice and features a strong 20mg (2%) nicotine strength. Features E-Liquid Capacity: 2ml Nicotine Strength: 20mg (2%) Nicotine Type: Nicotine Salt Pre-Filled Pods Pack of 2 Pods Compatible with the Elf Bar 4 in 1 pod vape kit Leak Proof Design QUAQ Mesh Coil These vape pods are NOT refillable, and are instead disposable pods that have been fitted with a fixed-coil. Once they’re empty, they should be disposed of and replaced with a new pod. The built-in coil contains the latest QUAQ mesh technology to provide vapers with fantastic flavour from the first puff, to the last. As well as enhanced flavour, the Elf Bar 4 in 1 replacement pods also ensure smooth vapour production, for a consistently pleasant vaping experience. These 4 in 1 Elf Bar pods have been made for the Elf Bar 4 in 1 pod vape kit and are available in a wide variety of flavours. We currently stock 10 different flavours, each of which contains Elf Bar flavours based on their best selling line of ElfLiq nic salts . See below for a full list of the flavours you can find in our collection. Blue Razz Lemonade Blueberry Sour Raspberry Cherry Ice Kiwi Passion Fruit Guava Lemon Lime Pineapple Ice Pink Lemonade Strawberry Ice Strawberry Raspberry Cherry Ice Watermelon Ice Blueberry, Raspberry, Lemon Blueberry Raspberry, Sour Red Cherry, Cool Sensation Kiwi, Passion Fruit, Guava Lemon and Lime Pineapple, Cool Sensation Strawberry, Lemon Strawberry, Cool Sensation Strawberry, Raspberry, Cherry, Cool Sensation Watermelon, Cool Sensation Package Contains 2x Elf Bar 4 in 1 2ml Pre-Filled Pod Elf Bar 4 in 1 Pre-filled Pod Flavours",
+    "created_at": "2024-09-18T18:07:56+01:00",
+    "updated_at": "2024-10-18T03:32:23+01:00",
+    "variants": [
+        {
+            "id": 44679188775081,
+            "title": "Blue Razz Lemonade",
+            "option1": "Blue Razz Lemonade",
+            "option2": null,
+            "option3": null,
+            "sku": "EB4IN1PODBLRL",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 40415533596841,
+                "product_id": 8274821218473,
+                "position": 1,
+                "created_at": "2024-09-19T13:46:35+01:00",
+                "updated_at": "2024-09-19T13:46:37+01:00",
+                "alt": null,
+                "width": 1200,
+                "height": 1200,
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Blue-Razz-Lemonade-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726749997",
+                "variant_ids": [
+                    44679188775081
+                ]
+            },
+            "available": false,
+            "price": "6.99",
+            "grams": 50,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 8274821218473,
+            "created_at": "2024-09-18T18:11:25+01:00",
+            "updated_at": "2024-10-18T03:32:23+01:00"
+        },
+        {
+            "id": 44679170785449,
+            "title": "Blueberry Sour Raspberry",
+            "option1": "Blueberry Sour Raspberry",
+            "option2": null,
+            "option3": null,
+            "sku": "EB4IN1PODBLSR",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 40415533629609,
+                "product_id": 8274821218473,
+                "position": 2,
+                "created_at": "2024-09-19T13:46:42+01:00",
+                "updated_at": "2024-09-19T13:46:44+01:00",
+                "alt": null,
+                "width": 1200,
+                "height": 1200,
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Blueberry-Sour-Raspberry-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750004",
+                "variant_ids": [
+                    44679170785449
+                ]
+            },
+            "available": false,
+            "price": "6.99",
+            "grams": 50,
+            "compare_at_price": null,
+            "position": 2,
+            "product_id": 8274821218473,
+            "created_at": "2024-09-18T18:07:57+01:00",
+            "updated_at": "2024-10-18T03:32:23+01:00"
+        },
+        {
+            "id": 44679170818217,
+            "title": "Cherry Ice",
+            "option1": "Cherry Ice",
+            "option2": null,
+            "option3": null,
+            "sku": "EB4IN1PODCHIC",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 40415533662377,
+                "product_id": 8274821218473,
+                "position": 3,
+                "created_at": "2024-09-19T13:46:48+01:00",
+                "updated_at": "2024-09-19T13:46:49+01:00",
+                "alt": null,
+                "width": 1200,
+                "height": 1200,
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Cherry-Ice-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750009",
+                "variant_ids": [
+                    44679170818217
+                ]
+            },
+            "available": true,
+            "price": "6.99",
+            "grams": 50,
+            "compare_at_price": null,
+            "position": 3,
+            "product_id": 8274821218473,
+            "created_at": "2024-09-18T18:07:57+01:00",
+            "updated_at": "2024-10-18T03:32:23+01:00"
+        },
+        {
+            "id": 44679188807849,
+            "title": "Kiwi Passion Fruit Guava",
+            "option1": "Kiwi Passion Fruit Guava",
+            "option2": null,
+            "option3": null,
+            "sku": "EB4IN1PODKPFG",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 40415533695145,
+                "product_id": 8274821218473,
+                "position": 4,
+                "created_at": "2024-09-19T13:46:54+01:00",
+                "updated_at": "2024-09-19T13:46:55+01:00",
+                "alt": null,
+                "width": 1200,
+                "height": 1200,
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Kiwi-Passion-Fruit-Guava-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750015",
+                "variant_ids": [
+                    44679188807849
+                ]
+            },
+            "available": true,
+            "price": "6.99",
+            "grams": 50,
+            "compare_at_price": null,
+            "position": 4,
+            "product_id": 8274821218473,
+            "created_at": "2024-09-18T18:11:26+01:00",
+            "updated_at": "2024-10-18T03:32:23+01:00"
+        },
+        {
+            "id": 44679188840617,
+            "title": "Lemon Lime",
+            "option1": "Lemon Lime",
+            "option2": null,
+            "option3": null,
+            "sku": "EB4IN1PODLELI",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 40415533727913,
+                "product_id": 8274821218473,
+                "position": 5,
+                "created_at": "2024-09-19T13:47:00+01:00",
+                "updated_at": "2024-09-19T13:47:02+01:00",
+                "alt": null,
+                "width": 1200,
+                "height": 1200,
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Lemon-Lime-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750022",
+                "variant_ids": [
+                    44679188840617
+                ]
+            },
+            "available": true,
+            "price": "6.99",
+            "grams": 50,
+            "compare_at_price": null,
+            "position": 5,
+            "product_id": 8274821218473,
+            "created_at": "2024-09-18T18:11:26+01:00",
+            "updated_at": "2024-10-18T03:32:23+01:00"
+        },
+        {
+            "id": 44679188873385,
+            "title": "Pineapple Ice",
+            "option1": "Pineapple Ice",
+            "option2": null,
+            "option3": null,
+            "sku": "EB4IN1PODPIIC",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 40415533760681,
+                "product_id": 8274821218473,
+                "position": 6,
+                "created_at": "2024-09-19T13:47:06+01:00",
+                "updated_at": "2024-09-19T13:47:08+01:00",
+                "alt": null,
+                "width": 1200,
+                "height": 1200,
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Pineapple-Ice-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750028",
+                "variant_ids": [
+                    44679188873385
+                ]
+            },
+            "available": true,
+            "price": "6.99",
+            "grams": 50,
+            "compare_at_price": null,
+            "position": 6,
+            "product_id": 8274821218473,
+            "created_at": "2024-09-18T18:11:26+01:00",
+            "updated_at": "2024-10-18T03:32:23+01:00"
+        },
+        {
+            "id": 44679171014825,
+            "title": "Pink Lemonade",
+            "option1": "Pink Lemonade",
+            "option2": null,
+            "option3": null,
+            "sku": "EB4IN1PODPILE",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 40415533793449,
+                "product_id": 8274821218473,
+                "position": 7,
+                "created_at": "2024-09-19T13:47:12+01:00",
+                "updated_at": "2024-09-19T13:47:13+01:00",
+                "alt": null,
+                "width": 1200,
+                "height": 1200,
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Pink-Lemonade-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750033",
+                "variant_ids": [
+                    44679171014825
+                ]
+            },
+            "available": true,
+            "price": "6.99",
+            "grams": 50,
+            "compare_at_price": null,
+            "position": 7,
+            "product_id": 8274821218473,
+            "created_at": "2024-09-18T18:07:57+01:00",
+            "updated_at": "2024-10-18T03:32:23+01:00"
+        },
+        {
+            "id": 44679188906153,
+            "title": "Strawberry Ice",
+            "option1": "Strawberry Ice",
+            "option2": null,
+            "option3": null,
+            "sku": "EB4IN1PODSTIC",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 40415533826217,
+                "product_id": 8274821218473,
+                "position": 8,
+                "created_at": "2024-09-19T13:47:19+01:00",
+                "updated_at": "2024-09-19T13:47:21+01:00",
+                "alt": null,
+                "width": 1200,
+                "height": 1200,
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Strawberry-Ice-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750041",
+                "variant_ids": [
+                    44679188906153
+                ]
+            },
+            "available": true,
+            "price": "6.99",
+            "grams": 50,
+            "compare_at_price": null,
+            "position": 8,
+            "product_id": 8274821218473,
+            "created_at": "2024-09-18T18:11:26+01:00",
+            "updated_at": "2024-10-18T03:32:23+01:00"
+        },
+        {
+            "id": 44679188938921,
+            "title": "Strawberry Raspberry Cherry Ice",
+            "option1": "Strawberry Raspberry Cherry Ice",
+            "option2": null,
+            "option3": null,
+            "sku": "EB4IN1PODSRCI",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 40415539265705,
+                "product_id": 8274821218473,
+                "position": 10,
+                "created_at": "2024-09-19T13:49:53+01:00",
+                "updated_at": "2024-09-19T13:49:54+01:00",
+                "alt": null,
+                "width": 1200,
+                "height": 1200,
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Strawberry-Raspberry-Cherry-Ice-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750194",
+                "variant_ids": [
+                    44679188938921
+                ]
+            },
+            "available": true,
+            "price": "6.99",
+            "grams": 50,
+            "compare_at_price": null,
+            "position": 9,
+            "product_id": 8274821218473,
+            "created_at": "2024-09-18T18:11:26+01:00",
+            "updated_at": "2024-10-18T03:32:23+01:00"
+        },
+        {
+            "id": 44679171080361,
+            "title": "Watermelon Ice",
+            "option1": "Watermelon Ice",
+            "option2": null,
+            "option3": null,
+            "sku": "EB4IN1PODWAIC",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+                "id": 40415534710953,
+                "product_id": 8274821218473,
+                "position": 9,
+                "created_at": "2024-09-19T13:48:02+01:00",
+                "updated_at": "2024-09-19T13:48:03+01:00",
+                "alt": null,
+                "width": 1200,
+                "height": 1200,
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Watermelon-Ice-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750083",
+                "variant_ids": [
+                    44679171080361
+                ]
+            },
+            "available": true,
+            "price": "6.99",
+            "grams": 50,
+            "compare_at_price": null,
+            "position": 10,
+            "product_id": 8274821218473,
+            "created_at": "2024-09-18T18:07:57+01:00",
+            "updated_at": "2024-10-18T03:32:23+01:00"
+        }
+    ],
+    "images": [
+        {
+            "src": {
+                "id": 40415533596841,
+                "created_at": "2024-09-19T13:46:35+01:00",
+                "position": 1,
+                "updated_at": "2024-09-19T13:46:37+01:00",
+                "product_id": 8274821218473,
+                "variant_ids": [
+                    44679188775081
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Blue-Razz-Lemonade-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726749997",
+                "width": 1200,
+                "height": 1200
+            }
+        },
+        {
+            "src": {
+                "id": 40415533629609,
+                "created_at": "2024-09-19T13:46:42+01:00",
+                "position": 2,
+                "updated_at": "2024-09-19T13:46:44+01:00",
+                "product_id": 8274821218473,
+                "variant_ids": [
+                    44679170785449
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Blueberry-Sour-Raspberry-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750004",
+                "width": 1200,
+                "height": 1200
+            }
+        },
+        {
+            "src": {
+                "id": 40415533662377,
+                "created_at": "2024-09-19T13:46:48+01:00",
+                "position": 3,
+                "updated_at": "2024-09-19T13:46:49+01:00",
+                "product_id": 8274821218473,
+                "variant_ids": [
+                    44679170818217
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Cherry-Ice-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750009",
+                "width": 1200,
+                "height": 1200
+            }
+        },
+        {
+            "src": {
+                "id": 40415533695145,
+                "created_at": "2024-09-19T13:46:54+01:00",
+                "position": 4,
+                "updated_at": "2024-09-19T13:46:55+01:00",
+                "product_id": 8274821218473,
+                "variant_ids": [
+                    44679188807849
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Kiwi-Passion-Fruit-Guava-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750015",
+                "width": 1200,
+                "height": 1200
+            }
+        },
+        {
+            "src": {
+                "id": 40415533727913,
+                "created_at": "2024-09-19T13:47:00+01:00",
+                "position": 5,
+                "updated_at": "2024-09-19T13:47:02+01:00",
+                "product_id": 8274821218473,
+                "variant_ids": [
+                    44679188840617
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Lemon-Lime-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750022",
+                "width": 1200,
+                "height": 1200
+            }
+        },
+        {
+            "src": {
+                "id": 40415533760681,
+                "created_at": "2024-09-19T13:47:06+01:00",
+                "position": 6,
+                "updated_at": "2024-09-19T13:47:08+01:00",
+                "product_id": 8274821218473,
+                "variant_ids": [
+                    44679188873385
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Pineapple-Ice-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750028",
+                "width": 1200,
+                "height": 1200
+            }
+        },
+        {
+            "src": {
+                "id": 40415533793449,
+                "created_at": "2024-09-19T13:47:12+01:00",
+                "position": 7,
+                "updated_at": "2024-09-19T13:47:13+01:00",
+                "product_id": 8274821218473,
+                "variant_ids": [
+                    44679171014825
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Pink-Lemonade-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750033",
+                "width": 1200,
+                "height": 1200
+            }
+        },
+        {
+            "src": {
+                "id": 40415533826217,
+                "created_at": "2024-09-19T13:47:19+01:00",
+                "position": 8,
+                "updated_at": "2024-09-19T13:47:21+01:00",
+                "product_id": 8274821218473,
+                "variant_ids": [
+                    44679188906153
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Strawberry-Ice-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750041",
+                "width": 1200,
+                "height": 1200
+            }
+        },
+        {
+            "src": {
+                "id": 40415534710953,
+                "created_at": "2024-09-19T13:48:02+01:00",
+                "position": 9,
+                "updated_at": "2024-09-19T13:48:03+01:00",
+                "product_id": 8274821218473,
+                "variant_ids": [
+                    44679171080361
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Watermelon-Ice-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750083",
+                "width": 1200,
+                "height": 1200
+            }
+        },
+        {
+            "src": {
+                "id": 40415539265705,
+                "created_at": "2024-09-19T13:49:53+01:00",
+                "position": 10,
+                "updated_at": "2024-09-19T13:49:54+01:00",
+                "product_id": 8274821218473,
+                "variant_ids": [
+                    44679188938921
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Strawberry-Raspberry-Cherry-Ice-Elf-Bar-4-in-1-Prefilled-Pods.jpg?v=1726750194",
+                "width": 1200,
+                "height": 1200
+            }
+        }
+    ]
+}

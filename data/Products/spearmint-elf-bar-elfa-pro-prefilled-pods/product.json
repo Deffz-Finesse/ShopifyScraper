@@ -1,0 +1,65 @@
+{
+    "title": "Spearmint Elf Bar Elfa Pro Prefilled Pods",
+    "handle": "spearmint-elf-bar-elfa-pro-prefilled-pods",
+    "vendor": "Elf Bar",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "20mg",
+        "Menthol Mint",
+        "Pre-Filled Pods",
+        "Spearmint",
+        "Vape Pods"
+    ],
+    "price": "4.95",
+    "description": "Discover Spearmint Elfa Pro Prefilled Pods - a sweet minty mix by Elf Bar . Elf Bar Elfa Pro Spearmint Prefilled Pods are a deeply delicious blend containing notes of cool, crisp spearmint that have been merged with a mellow, minty sweetness and combined with a cooling sensation on the exhale to create a flavour that’s both frosty and sweet. If you’ve been searching for a cool savoury sensation you’re definitely going to want to get your hands on the Spearmint Elf Bar pods! Elf Bar Elfa Pro Pods are pre-filled pods preloaded with nic salt vaping liquid . Each Elf Bar Elfa Pro pod holds 2ml of vape juice in a 2% nicotine strength, also referred to as 20mg, which is the same amount found in many different disposable vapes , like the popular Elf Bar 600 Vape . The Elfa Pro Refill Pods don’t just contain vape liquid, the Elfa Pro Elf Bar Pods also have an innovative QUAQ tech mesh vape coil that has been developed in order to give consumers full bodied flavour and next-level vapour with every inhale. Elfa Pro pods are incredibly user-friendly, which makes them ideal for first time vapers or those switching from single use vapes. Elf Pro Elf Bar pods aren’t made to be refilled, instead once they’ve run out of e-liquid you can replace the entire pod. To use the Elfa Pro Prefilled Pods push in the base of the pod and wait for around 60 seconds before you pop it in the Elf Bar Elfa Pod Vape . When some of the vape liquid has been absorbed by the coil inside the Elf Pro pod you can start vaping straight away - puff on the mouthpiece & enjoy your Elfa Pro Elf Bar! Elf Bar Elfa Pro pods are available as a pack of 2 - the Elf Bar Elfa Pro vape is sold separately. Spearmint Elfa Pro Pods Specs Flavour: Spearmint, Mint, Sweet, Cool E-Liquid Capacity: 2ml Nicotine Strength: 20mg (2%) Nicotine Type: Nicotine Salt Puff Count: Up to 600 Vape Type: MTL/Mouth to Lung Compatible With : Elf Bar Elfa Pro Pod Vape Kit Spearmint Elfa Pro Pods Include: 2x Spearmint Elf Bar Elfa Pro Pods",
+    "created_at": "2024-01-31T11:06:18+00:00",
+    "updated_at": "2024-10-18T03:32:23+01:00",
+    "variants": [
+        {
+            "id": 43609342673065,
+            "product_id": 7897442025641,
+            "title": "Default Title",
+            "price": "4.95",
+            "sku": "EBELFAPROSPEA",
+            "position": 1,
+            "inventory_policy": "deny",
+            "compare_at_price": "5.95",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-01-31T11:06:18+00:00",
+            "updated_at": "2024-10-18T03:32:27+01:00",
+            "taxable": true,
+            "barcode": null,
+            "grams": 35,
+            "image_id": null,
+            "weight": 0.035,
+            "weight_unit": "kg",
+            "inventory_quantity": 5,
+            "old_inventory_quantity": 5,
+            "requires_shipping": true,
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP",
+            "quantity_price_breaks": []
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Elf-Bar-Elfa-Pro-Prefilled-Pods-Spearmint.jpg?v=1707890349",
+            "alt": "Spearmint elf bar elfa pro pre filled pods",
+            "width": 1200,
+            "height": 1200
+        }
+    ],
+    "weight": 0.035,
+    "inventory_quantity": 5,
+    "compare_at_price": "5.95"
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Pineapple Ice Elf Bar Elfa Pro Prefilled Pods",
+    "handle": "pineapple-ice-elf-bar-elfa-pro-prefilled-pods",
+    "vendor": "Elf Bar",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "20mg",
+        "closed pods",
+        "Fruits",
+        "ice",
+        "Pineapple",
+        "Pre-Filled Pods",
+        "Vape Pods"
+    ],
+    "price": "4.95",
+    "description": "Discover Pineapple Ice Elfa Pro Prefilled Pods - a cool tropical temptation by Elf Bar . Elf Bar Elfa Pro Pineapple Ice Prefilled Pods are an exquisite combination of tangy pineapple chunks with a cool, refreshing feel as though your juicy pineapple has been taken fresh from the fridge. If you’ve been looking for an exciting exotic flavour, we think you’ll love the Pineapple Ice Elf Bar pods! Elf Bar Elfa Pro Pods are pre-filled pods and have been preloaded with nic salt vape liquid . Each Elf Bar Elfa Pro pod contains 2ml of vape liquid in a 20mg nicotine strength, which is the equivalent of the 2% nicotine found in many disposable vapes , such as the Elf Bar 600 Vape . As well as flavoured vape juice, the Elfa Pro Elf Bar Pods also contain a mesh QUAQ coil which provides you with better flavour and vapour production. Elfa Pro pods are specially designed to be as simple and easy to use as they can possibly be - they don’t need to be refilled and don’t have changeable coils - just push in the base of the pod (the red bit at the bottom) and allow the Elfa Pro pod to sit for up to a minute before you slot it into the Elf Bar Elfa Pod Vape . Once some of the vape liquid has absorbed into the pod’s coil and it’s fully saturated, you can get started by inhaling on the mouthpiece. Elf Bar Elfa Pro pods are available as a pack of 2 - the Elf Bar Elfa Pro vape is sold separately. Pineapple Ice Elfa Pro Pods Specs Flavour: Pineapple, Ice, Cool E-Liquid Capacity: 2ml Nicotine Strength: 20mg (2%) Nicotine Type: Nicotine Salt Puff Count: Up to 600 Vape Type: MTL/Mouth to Lung Compatible With : Elf Bar Elfa Pro Pod Vape Kit Pineapple Ice Elfa Pro Pods Include: 2x Pineapple Ice Elf Bar Elfa Pro Pods",
+    "created_at": "2024-01-31T11:06:51+00:00",
+    "updated_at": "2024-10-18T03:32:23+01:00",
+    "variants": [
+        {
+            "id": 43609345261737,
+            "product_id": 7897442451625,
+            "title": "Default Title",
+            "price": "4.95",
+            "sku": "EBELFAPROPIIC",
+            "position": 1,
+            "inventory_policy": "deny",
+            "compare_at_price": "5.95",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-01-31T11:06:51+00:00",
+            "updated_at": "2024-10-18T03:32:26+01:00",
+            "taxable": true,
+            "barcode": null,
+            "grams": 35,
+            "image_id": null,
+            "weight": 0.035,
+            "weight_unit": "kg",
+            "inventory_quantity": 11,
+            "old_inventory_quantity": 11,
+            "requires_shipping": true,
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP",
+            "quantity_price_breaks": []
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Elf-Bar-Elfa-Pro-Prefilled-Pods-Pineapple-Ice.jpg?v=1707890231",
+            "alt": "Pineapple Ice elf bar elfa pro pre filled pods",
+            "width": 1200,
+            "height": 1200
+        }
+    ],
+    "weight": 0.035,
+    "inventory_quantity": 11,
+    "compare_at_price": "5.95"
+}

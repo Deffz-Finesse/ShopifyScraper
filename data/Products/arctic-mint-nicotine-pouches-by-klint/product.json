@@ -1,0 +1,60 @@
+{
+    "title": "Arctic Mint Nicotine Pouches by Klint",
+    "handle": "arctic-mint-nicotine-pouches-by-klint",
+    "vendor": "Klint",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "flavour-main-menthol",
+        "flavour-mint",
+        "Klint",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-14mg",
+        "strength-20mg",
+        "strong"
+    ],
+    "price": "5.49",
+    "description": "TRY KLINT ARCTIC MINT NICOTINE POUCHES Arctic Mint Nicotine Pouches by Klint feature the maximum taste effect of mint and ice-cold menthol, Moreover, this is perfect for mint lovers looking for that sweet, chilly taste. View all Klint Nicotine Pouches View all Mint/Menthol Pouches View all Low Strength Pouches KEY FEATURES: Mint & Menthol flavoured nicotine pouches 20mg Per Gram | 14mg Per Pouch Tobacco-free, smoke-free and vapour-free 24 pouches in each can MORE ABOUT MINT FLAVOURED NICOTINE POUCHES With a hearty mint flavour combined with the alluring and cooling flavour of the fresh mint provides an unbeatable, refreshing nicotine experience and invigorating taste. MORE ABOUT KLINT NICOTINE POUCHES Klint is the premium, all-white, tobacco-free nicotine portion for the elegant lifestyle that gives you the convenience of a fresh nicotine boost, wherever you are, whenever you want. Simply choose from one of the six flavours that best matches your taste, place it under your lip and get on with your day. Additional Description Information: Brand Name: Klint Product Type: Nicotine Pouches Pouch Format: Large Our Strength Rating: Strong Nicotine per Pouch (mg/pouch): 14 MG Flavour Name: Arctic Mint Flavour: Mint & Menthol Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2022-12-15T14:39:22+00:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 43695187788002,
+            "product_id": 7976921333986,
+            "title": "Default Title",
+            "price": "5.49",
+            "sku": "KLINT-ARCTIC-MINT-NO5",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2022-12-15T14:39:23+00:00",
+            "updated_at": "2024-10-18T03:32:21+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/products/Arctic_Mint_Nicotine_Pouches_by_Klint_14MG.png?v=1694697431",
+            "alt": "Arctic Mint Nicotine Pouches by Klint 14MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

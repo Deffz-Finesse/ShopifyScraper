@@ -1,0 +1,60 @@
+{
+    "title": "13 Extreme Nicotine Pouches by Killa",
+    "handle": "13-extreme-nicotine-pouches-by-killa",
+    "vendor": "Killa",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "extra-strong",
+        "flavour-energy-drink",
+        "flavour-main-drinks",
+        "Killa",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-12mg",
+        "strength-16mg"
+    ],
+    "price": "3.99",
+    "description": "TRY KILLA 13 EXTREME NICOTINE POUCHES 13 Extreme Nicotine Pouches by Killa are filled with the flavours of a classic energy drink, giving you that much needed boost throughout the day. View all Killa Pouches View all Fruity Pouches View all Extra Strong Pouches View all Stong Pouches View all Drinks Flavour Pouches KEY FEATURES: Energy Drink flavoured nicotine pouches Recommended for experienced users 16mg Per Gram | 12.8mg Per Pouch Tobacco-free, smoke-free and vapour-free 20 pouches in each can MORE ABOUT ENERGY DRINK FLAVOURED NICOTINE POUCHES Killa 13 Extreme nicotine pouches are an intense experience in more than one way. Packed with the flavours of a fizzy energy drink, the pouches' 24mg nicotine strength packs a real punch and is designed for experienced nicotine pouch users. The pouches may give your lip a tingly feeling, but don't worry, that's completely normal and part of the experience. MORE ABOUT NICOTINE POUCHES Discreet, slim pouches containing tobacco-free nicotine are packed into these stylish cans that fit perfectly in your pocket. Simply pop the pouch under your lip and you're ready to go. Additional Description Information: Brand Name: Killa Product Type: Nicotine Pouches Pouch Format: Slim Our Strength Rating: Extra Strong Nicotine per Pouch (mg/pouch) 16 MG Flavour Name: Killa 13 Flavour: Energy Drink Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2021-02-22T20:52:34+00:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 42322684575970,
+            "product_id": 6203346321567,
+            "title": "Default Title",
+            "price": "3.99",
+            "sku": "KILLA-13-EXTREME",
+            "position": 1,
+            "compare_at_price": "5.49",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2022-01-19T21:16:46+00:00",
+            "updated_at": "2024-10-18T03:32:14+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/products/13_Extreme_Nicotine_Pouches_by_Killa_12.8MG.jpg?v=1694702681",
+            "alt": "13 Extreme Nicotine Pouches by Killa 12.8MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": "5.49"
+}

@@ -1,0 +1,52 @@
+{
+    "title": "13 Flash Nicotine Pouches by Killa",
+    "handle": "13-flash-nicotine-pouches-by-killa",
+    "vendor": "Discontinued",
+    "product_type": "Nico Pods",
+    "tags": [
+        "Mix-&-Match",
+        "SKIP_AV"
+    ],
+    "price": "5.49",
+    "description": "TRY KILLA 13 FLASHOTINE POUCHES Elevate your energy levels with the invigorating 13 Flash Nicotine Pouches by Killa . These pouches are infused with the exhilarating flavors of a classic energy drink, providing you with the perfect boost to power through your day. From the very first pouch, a surge of stimulating flavor engulfs your senses, reminiscent of the revitalizing experience of an energy drink. Each inhalation delivers a burst of invigorating taste, awakening your senses and igniting your drive. KEY FEATURES: Energy Drink flavoured nicotine pouches 4mg nicotine strength Tobacco-free, smoke-free and vapour-free 20 pouches in each can MORE ABOUT ENERGY DRINK FLAVOURED NICOTINE POUCHES Prepare yourself for an extraordinary journey with Killa 13 Flash nicotine pouches, where intensity takes on new dimensions. Bursting with the invigorating flavors of a fizzy energy drink, these pouches deliver an experience that is as exhilarating as it is intense. Indulge in the vibrant flavors that capture the essence of a fizzy energy drink. Each inhalation immerses you in a symphony of taste, invoking the invigorating qualities of the beloved beverage. The intensity of the flavors unfolds, enveloping your senses and leaving a lasting impression. MORE ABOUT NICOTINE POUCHES Discreet, slim pouches containing tobacco-free nicotine are packed into these stylish cans that fit perfectly in your pocket. Simply pop the pouch under your lip and you're ready to go. Additional Description Information: Brand Name: Killa Product Type: Nicotine Pouches Pouch Format: Slim Our Strength Rating: Low Nicotine per Pouch (mg/pouch) 4 MG Flavour Name: 13 Flash Flavour: Energy Drink Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2023-05-30T20:39:32+01:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 44102777733346,
+            "product_id": 8098256486626,
+            "title": "Low (4MG)",
+            "price": "5.49",
+            "sku": "KILLA-13-FLASH",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Low (4MG)",
+            "option2": null,
+            "option3": null,
+            "created_at": "2023-05-30T20:39:32+01:00",
+            "updated_at": "2024-10-18T03:32:14+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 30,
+            "image_id": null,
+            "weight": 30.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/13_Flash_Nicotine_Pouches_by_Killa_4MG.jpg?v=1694703691",
+            "alt": "13 Flash Nicotine Pouches by Killa 4MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 30.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

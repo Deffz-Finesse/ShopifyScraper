@@ -1,0 +1,67 @@
+{
+    "title": "Lemon & Lime SKE Crystal Plus Prefilled Pods",
+    "handle": "crystal-plus-prefilled-pod-lemon-lime",
+    "vendor": "SKE",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "20mg",
+        "Citrus Fruits",
+        "closed pods",
+        "Lemon",
+        "Lime",
+        "Pre-Filled Pods",
+        "Vape Pods"
+    ],
+    "price": "3.95",
+    "description": "The Crystal Bar Plus Lemon & Lime pods, are pre-filled with 2ml e-liquid and deliver approx. 600 puffs, similar to 20 cigarettes. These are compatible with the Crystal Plus pod kit. They're filled with 20mg salt-based nicotine strength to deliver a smooth throat hit and faster body absorption compared to standard e-liquid. Lemon & Lime is a zesty and refreshing flavour perfect for those who crave a burst of citrusy goodness. The tangy taste of freshly squeezed lemons is perfectly balanced by the bright, zingy flavour of limes, creating a mouth-watering sensation that will invigorate your taste buds. The 1.2ohm coil is also pre-installed and creates a smooth tight draw similar to a cigarette while producing a small amount of vapour and retaining the great flavour. Featuring a 1.1 Ohm built-in meshed coil known for consistent and rich flavour delivery from first to last draw. Plus, you can enjoy MTL-style vaping with these pods that mimic the feel of traditional cigarettes. Being pre-filled with e-liquid, there is no need to need to refill the pods or go through any messy coil changes. Once the Eliquid has run out, just dispose of the empty pod and install a new one. Lemon & Lime Crystal Plus Pods Features: 2ml E-Liquid Capacity 20mg salt-based nicotine Up to 600 Puff Inhale-activated Pre-filled pods 1.1 Ohm Meshed Coil MTL Draw SKE Crystal Plus Pods Package Contents: 2 x Crystal Plus pre-filled pods",
+    "created_at": "2023-05-11T17:39:35+01:00",
+    "updated_at": "2024-10-18T03:30:25+01:00",
+    "variants": [
+        {
+            "id": 43058942771369,
+            "product_id": 7744098631849,
+            "title": "Default Title",
+            "price": "3.95",
+            "sku": "SKECRPLPODLELI",
+            "position": 1,
+            "inventory_policy": "deny",
+            "compare_at_price": "5.95",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2023-05-11T17:39:35+01:00",
+            "updated_at": "2024-10-18T03:32:10+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 26,
+            "image_id": null,
+            "weight": 0.026,
+            "weight_unit": "kg",
+            "inventory_quantity": 19,
+            "old_inventory_quantity": 19,
+            "requires_shipping": true,
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP",
+            "quantity_price_breaks": []
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Crystal-Bar-Plus-Vape-Pods-Lemon-Lime.jpg?v=1683839070",
+            "alt": "Lemon & Lime SKE Crystal Plus Prefilled Pods",
+            "width": 1200,
+            "height": 1200
+        }
+    ],
+    "weight": 0.026,
+    "inventory_quantity": 19,
+    "compare_at_price": "5.95"
+}

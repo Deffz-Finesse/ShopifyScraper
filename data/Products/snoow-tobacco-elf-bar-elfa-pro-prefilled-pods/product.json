@@ -1,0 +1,66 @@
+{
+    "title": "Snoow Tobacco Elf Bar Elfa Pro Prefilled Pods",
+    "handle": "snoow-tobacco-elf-bar-elfa-pro-prefilled-pods",
+    "vendor": "Elf Bar",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "20mg",
+        "Pre-Filled Pods",
+        "Spice Nuts Herbs",
+        "Tobacco",
+        "Vape Clearance",
+        "Vape Pods"
+    ],
+    "price": "4.95",
+    "description": "Discover Snoow Tobacco Elfa Pro Prefilled Pods (previously known as Cream Tobacco) - a smooth tobacco blend by Elf Bar . Elf Bar Elfa Pro Snoow Tobacco Prefilled Pods are a rich, creamy blend featuring a tasty toasted tobacco merged with mild nutty notes to create a sweet yet savoury tobacco taste that’s perfect for fans of aromatic tobacco flavours. If you’ve been searching for a more savoury flavour, give the Snoow Tobacco Elf Bar pods a go! Elf Bar Elfa Pro Pods are pre-filled pods - this means that they have been preloaded e-liquid, in this case with nic salt vape juice . Each Elf Bar Elfa Pro pod is prefilled with 2ml of vape juice in a 2% strength, which is the same as the 20mg of nicotine contained within most disposable vapes , such as the original Elf Bar 600 Vape . The Elfa Pro Refill Pods not only contain vape juice, the Elfa Pro Elf Bar Pods also feature a QUAQ meshed coil which has been designed to offer intense flavour and incredible vapour production. Elfa Pro pods have been made to be as user-friendly as possible, making them perfect for beginners. Elf Pro Elf Bar pods can’t be refilled and don’t have changeable coils, they’re instead made to be replaced once the e-liquid is finished. To use the Elfa Pro Prefilled Pods push in the base of the pod (the red part) and allow the Elfa Pro pod to sit for approximately 60 seconds before you pop it in the Elf Bar Elfa Pod Vape . When some of the vape liquid has been absorbed by the coil within the pods you’re ready to go, just inhale on the mouthpiece and the Elfa Pro Elf Bar will begin producing vapour! Elf Bar Elfa Pro pods are available as a pack of 2 - the Elf Bar Elfa Pro vape is sold separately. Snoow Tobacco Elfa Pro Pods Specs Flavour: Tobacco, Cream, Savoury E-Liquid Capacity: 2ml Nicotine Strength: 20mg (2%) Nicotine Type: Nicotine Salt Puff Count: Up to 600 Vape Type: MTL/Mouth to Lung Compatible With : Elf Bar Elfa Pro Pod Vape Kit Snoow Tobacco Elfa Pro Pods Include: 2x Snoow Tobacco Elf Bar Elfa Pro Pods",
+    "created_at": "2024-01-31T11:06:43+00:00",
+    "updated_at": "2024-10-18T03:32:23+01:00",
+    "variants": [
+        {
+            "id": 43609344737449,
+            "product_id": 7897442320553,
+            "title": "Default Title",
+            "price": "4.95",
+            "sku": "EBELFAPROSNTO",
+            "position": 1,
+            "inventory_policy": "deny",
+            "compare_at_price": "5.95",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-01-31T11:06:43+00:00",
+            "updated_at": "2024-10-18T03:32:28+01:00",
+            "taxable": true,
+            "barcode": null,
+            "grams": 35,
+            "image_id": null,
+            "weight": 0.035,
+            "weight_unit": "kg",
+            "inventory_quantity": 7,
+            "old_inventory_quantity": 7,
+            "requires_shipping": true,
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP",
+            "quantity_price_breaks": []
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Elf-Bar-Elfa-Pro-Prefilled-Pods-Snoow-Tobacco.jpg?v=1707890328",
+            "alt": "Snoow Tobacco elf bar elfa pro pre filled pods",
+            "width": 1200,
+            "height": 1200
+        }
+    ],
+    "weight": 0.035,
+    "inventory_quantity": 7,
+    "compare_at_price": "5.95"
+}

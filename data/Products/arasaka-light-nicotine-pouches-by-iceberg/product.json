@@ -1,0 +1,63 @@
+{
+    "title": "Arasaka Nicotine Pouches by Iceberg",
+    "handle": "arasaka-light-nicotine-pouches-by-iceberg",
+    "vendor": "Iceberg",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "extra-strong",
+        "flavour-drinks",
+        "flavour-main-drinks",
+        "flavour-main-fruity",
+        "flavour-main-sweets",
+        "flavour-peach",
+        "iceberg",
+        "medium",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-12mg",
+        "strength-20mg",
+        "strong"
+    ],
+    "price": "5.99",
+    "description": "TRY ICEBERG ARASAKA NICOTINE POUCHES Arasaka nicotine pouches by Iceberg have the delicious flavour of fresh, fruity peach. An impressive flavour and great strength. Experience no dry pouches just premium quality nicotine pouches with soft moisture and long lasting flavour. View all Iceberg Pouches View all Fruity Pouches View all Strong Pouches View all Extra Strong Pouches KEY FEATURES: Fruity-flavoured (Peach) nicotine pouches Refreshing mint sensation with each pouch 20mg Per Gram | 12mg Per Pouch Tobacco-free, smoke-free and vapour-free Discreet and suitable for all occasions Excellent nicotine experience MORE ABOUT PEACH FLAVOURED NICOTINE POUCHES Peach is a seductive flavour that combines the luscious sweetness of ripe peaches. This produces an energising and pleasant flavour that is satisfying and refreshing. Peach's flavour profile is distinguished by a crisp and energising experience. MORE ABOUT ICEBERG NICOTINE POUCHES Iceberg Nicotine Pouches are among the finest nicotine pouches on the market. Smoke-free, satisfying alternative to traditional methods, Iceberg offers those who crave a crisp, invigorating nicotine experience. No matter what time of the day you need a refreshing boost, or how long you need to relax after a long day, Iceberg pouches offer a discreet and refreshing alternative. Additional Description Information: Brand Name: Iceberg Product Type: Nicotine Pouches Pouch Format: Slim Our Strength Rating: Strong Nicotine per Gram 20 MG Nicotine per Pouch (mg/pouch) 12 MG Flavour Name: Arasaka Flavour: Fruity Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2024-07-25T14:24:10+01:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 45736361361634,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "ICEBERG-ARASAKA-LIGHT",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "5.99",
+            "grams": 45,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 8653146783970,
+            "created_at": "2024-07-25T14:24:10+01:00",
+            "updated_at": "2024-10-18T03:32:14+01:00"
+        }
+    ],
+    "images": [
+        {
+            "src": {
+                "id": 41838954381538,
+                "created_at": "2024-08-08T11:27:26+01:00",
+                "position": 1,
+                "updated_at": "2024-08-08T11:27:27+01:00",
+                "product_id": 8653146783970,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/NicotinePouchesPSD_15.jpg?v=1723112847",
+                "width": 800,
+                "height": 800
+            }
+        }
+    ]
+}

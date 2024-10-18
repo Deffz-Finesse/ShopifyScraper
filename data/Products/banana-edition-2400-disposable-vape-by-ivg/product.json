@@ -1,0 +1,66 @@
+{
+    "title": "Banana Edition 2400 Disposable Vape by IVG",
+    "handle": "banana-edition-2400-disposable-vape-by-ivg",
+    "vendor": "IVG",
+    "product_type": "Disposable Vapes",
+    "tags": [
+        "disposable-vape",
+        "extra-strong",
+        "flavour-banana",
+        "flavour-blueberries",
+        "flavour-coconut",
+        "flavour-main-drinks",
+        "flavour-main-fruity",
+        "flavour-main-sweets",
+        "flavour-orange",
+        "flavour-pineapple",
+        "flavour-strawberry",
+        "ivg",
+        "Mix-&-Match",
+        "new",
+        "nicotine-warnings",
+        "strength-20mg"
+    ],
+    "price": "12.99",
+    "description": "TRY IVG 2400 BANANA EDITION DISPOSABLE VAPE There are four pods included in the special edition IVG disposable vape, banana ice, banana strawberry blueberry ice, banana pineapple coconut ice and banana orange ice. Each flavour is designed to satisfy every taste bud and create the perfect vaping experience. Beginner-Friendly Disposable Vape Maximum of 2400 Puffs Inhale Activated 20mg Nic Salt 2ml E-Liquid (X4) MORE ABOUT IVG 2400 DISPOSABLE VAPES This is the first disposable vape to hit the UK market with 2400 puffs! IVG 2400 Disposables come with four flavoured 2ml pods, four mesh coils, and a rotating pod system. Vapers simply twist the pod to start vaping a brand new mouthwatering flavour from a new pod once one runs out. A 1500mAh battery delivers 2400 puffs. Pre-filled with 20mg salt nicotine, each device delivers a smooth throat hit and an enhanced mouthwatering taste. With this convenient disposable device, there are no complicated buttons or menus to learn. Start vaping by inhaling through the mouthpiece! Click here to see the rest of the delicious IVG range or to see what other disposable vape kits we have click here . Additional Description Information: Brand Name: IVG Product Type: Disposable Vapes Strength: 20MG Puff Count 2400 Battery Capacity 1500mAh Flavour Name: Banana Edition Flavour: Fruity Weight 28g Shipping from: London, UK",
+    "created_at": "2024-05-15T11:55:44+01:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 45415714980066,
+            "product_id": 8532241940706,
+            "title": "Default Title",
+            "price": "12.99",
+            "sku": "IVG-BANANA-PIN-COC-ICE",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-05-15T11:55:44+01:00",
+            "updated_at": "2024-10-18T03:32:21+01:00",
+            "taxable": true,
+            "barcode": null,
+            "grams": 35,
+            "image_id": null,
+            "weight": 35.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Banana_Edition_2400_Disposable_Vape_by_IVG_20MG.jpg?v=1718186915",
+            "alt": "Banana Edition 2400 Disposable Vape by IVG 20MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 35.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Cool Mint Low Nicotine Pouches by Ace",
+    "handle": "cool-mint-low-nicotine-pouches-by-ace",
+    "vendor": "Ace",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "ace",
+        "flavour-main-menthol",
+        "flavour-mint",
+        "flavour-peppermint",
+        "low",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-4mg",
+        "strength-6mg"
+    ],
+    "price": "5.99",
+    "description": "TRY ACE COOL MINT LOW NICOTINE POUCHES Dive into the invigorating world of Cool Mint Low Nicotine Pouches by Ace where an exhilarating burst of cool mint flavor and the gentle sweetness of peppermint. Immerse yourself in the cool, minty embrace that characterizes this meticulously crafted blend, promising not only a delightful taste but also a sensation that invigorates your senses. View all Ace Nicotine Pouches View all Mint/Menthol Pouches View all Medium Pouches KEY FEATURES: Cool mint and Peppermint flavoured nicotine pouches Designed for a strong nicotine kick Great substitute for cigarettes Tobacco-free, smoke-free and vapour-free 6MG Per Gram | 3.6MG Per Pouch MORE ABOUT PEPPERMINT FLAVOURED NICOTINE POUCHES The crisp taste of sweet peppermint and a burst of refreshing coolness characterise the energising symphony that is the Cool Mint flavour. Savour the invigorating sensation as the minty notes dance across your palate, evoking a feeling of absolute freshness. refreshing Mint's flavour profile is enhanced by the interplay between its refreshing mint and peppermint's mild sweetness, which gives every minute spent with it a revitalising and enjoyable experience. MORE ABOUT NICOTINE POUCHES Ace's tobacco-free, slim nicotine pouches are perfect for discreet usage. Each pouch fits securely under your lip, offering you a discreet and effective nicotine experience. Ace's pouches are for experienced users and are available in a range of flavours, so make sure you check out the rest of the range. Additional Description Information: Brand Name: Ace Product Type: Nicotine Pouches Pouch Format: Slim Our Strength Rating: Low Nicotine per (mg/Gram) 6MG Nicotine per Pouch (mg/pouch) 3.6 MG Flavour Name: Cool Mint Low Flavour: Mint & Menthol Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2024-02-12T21:56:20+00:00",
+    "updated_at": "2024-10-18T03:23:10+01:00",
+    "variants": [
+        {
+            "id": 44813806862562,
+            "product_id": 8295908081890,
+            "title": "Default Title",
+            "price": "5.99",
+            "sku": "ACE-COOL-MINT-LOW-2DOTS",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-02-12T21:56:20+00:00",
+            "updated_at": "2024-10-18T03:32:13+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Cool_Mint_Low_Nicotine_Pouches_by_Ace_6MG.jpg?v=1707776315",
+            "alt": "Cool Mint Low Nicotine Pouches by Ace 6MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

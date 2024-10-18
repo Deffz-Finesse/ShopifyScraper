@@ -1,0 +1,66 @@
+{
+    "title": "Liquorice & Citrus VB Edition Nicotine Pouches By 77",
+    "handle": "liquorice-citrus-vb-edition-nicotine-pouches-by-77",
+    "vendor": "77",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "77",
+        "extra-strong",
+        "flavour-candy",
+        "flavour-citrus",
+        "flavour-drinks",
+        "flavour-main-drinks",
+        "flavour-main-fruity",
+        "flavour-main-sweets",
+        "flavour-mint",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-13mg",
+        "strength-20mg",
+        "strong"
+    ],
+    "price": "4.99",
+    "description": "TRY 77 LIQUORICE & CITRUS NICOTINE POUCHES Liquorice & Citrus VB Edition nicotine pouches by 77 invites you to indulge in a delightful fusion of flavors that tantalize the palate. With each pouch, experience the harmonious blend of rich, earthy liquorice intertwined with the vibrant zest of citrus. The combination offers a refreshing and invigorating sensation, delivering a unique twist on traditional nicotine pouch flavors. Crafted for connoisseurs seeking a bold and flavorful experience. View all 77 Pouches View all Fruity Pouches View all Sweets & Treats Pouches View all Extra Strong Pouches KEY FEATURES: 20MG Per Gram | 13MG Per Pouch Fruity flavoured nicotine pouches Recommended for experienced users Tobacco-free, smoke-free and vapour-free 20 pouches in each can MORE ABOUT LIQUORICE & CITRUS FLAVOURED NICOTINE POUCHES Flavours of vibrant citrus and earthy licorice come together in the licorice & Citrus VB Edition Nicotine Pouches. A wonderful medley of flavours will dance across your tongue with each pouch, providing a one-of-a-kind and energising experience. The sharp tang of the citrus cuts through the rich, slightly sweet undertone of the licorice. For individuals in search of a strong and unique nicotine experience, this is the perfect option because to the harmonic balance of flavours that is both refreshing and fulfilling. MORE ABOUT 77 NICOTINE POUCHES 77 were the first polish brand of tobacco-free nicotine pouches. 77 offers one of the most diverse ranges of flavour on the market, 77 also hit the sweet spot with their nicotine levels. Switch up, switch down, mix and match – do whatever suits you best! Flavours range from different types of mint to peach, apple, strawberries, and even classic tobacco. Additional Description Information: Brand Name: 77Pouches Product Type: Nicotine Pouches Pouch Format: Slim Our Strength Rating: Extra Strong Nicotine per Gram 20 MG Nicotine per Pouch 13 MG Flavour Name: Liquorice & Citrus Flavour: Sweets Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2024-03-20T13:35:25+00:00",
+    "updated_at": "2024-10-18T03:07:27+01:00",
+    "variants": [
+        {
+            "id": 44982645620962,
+            "product_id": 8350659346658,
+            "title": "Default Title",
+            "price": "4.99",
+            "sku": "77-VB-LIQUORICE/CITRUS",
+            "position": 1,
+            "compare_at_price": "5.49",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-03-20T13:35:25+00:00",
+            "updated_at": "2024-10-18T03:19:05+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Liquorice_Citrus_VB_Edition_Nicotine_Pouches_By_77_20MG.jpg?v=1710945679",
+            "alt": "Liquorice & Citrus VB Edition Nicotine Pouches By 77 20MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": "5.49"
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Watermelon Nicotine Pouches By 77",
+    "handle": "watermelon-nicotine-pouches-by-77",
+    "vendor": "77",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "77",
+        "flavour-main-dessert",
+        "flavour-main-drinks",
+        "flavour-main-fruity",
+        "flavour-main-sweets",
+        "flavour-watermelon",
+        "low",
+        "medium",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-5mg",
+        "strength-8mg"
+    ],
+    "price": "3.99",
+    "description": "TRY 77 WATERMELON LIGHT NICOTINE POUCHES Watermelon nicotine pouches by 77 give a delectable and sweet watermelon flavour that replicates the sensation of biting into a perfectly ripe, sun-kissed watermelon. Each pouch will have you dreaming of a warm summer day while you relish the succulent sweetness and refreshing juiciness of this cherished melon. View all 77 Pouches View all Fruity Pouches View all Extra Strong Pouches KEY FEATURES: 8MG Per Gram | 5.2MG Per Pouch Watermelon-flavoured nicotine pouches Tobacco-free, smoke-free and vapour-free 20 pouches in each can MORE ABOUT WATERMELON FLAVOURED NICOTINE POUCHES The Watermelon flavour is a true taste of summer, evocative of biting into a luscious and ripe watermelon on a hot day. It's the perfect blend of sugary and tangy flavours to satisfy your thirst and awaken your senses. Watermelon flavour is a favourite among those who like a tasty and invigorating vaping or nicotine pouch experience due to its natural sweetness and undertones of coolness. Watermelon flavour is sure to satisfy your cravings and leave you feeling rejuvenated, whether you're in the mood for a summer treat or just a burst of taste. MORE ABOUT 77 NICOTINE POUCHES 77 were the first polish brand of tobacco-free nicotine pouches. 77 offers one of the most diverse ranges of flavour on the market, 77 also hit the sweet spot with their nicotine levels. Switch up, switch down, mix and match – do whatever suits you best! Flavours range from different types of mint to peach, apple, strawberries, and even classic tobacco. Additional Description Information: Brand Name: 77Pouches Product Type: Nicotine Pouches Pouch Format: Large Our Strength Rating: Medium Nicotine per Gram 8 MG Nicotine per Pouch 5.2 MG Flavour Name: Watermelon Flavour: Fruity Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2023-11-07T21:20:47+00:00",
+    "updated_at": "2024-10-18T03:07:27+01:00",
+    "variants": [
+        {
+            "id": 44505702105314,
+            "product_id": 8213134672098,
+            "title": "Default Title",
+            "price": "3.99",
+            "sku": "77-WATERMELON-LIGHT",
+            "position": 1,
+            "compare_at_price": "5.49",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2023-11-07T21:20:47+00:00",
+            "updated_at": "2024-10-18T03:19:03+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Watermelon_Nicotine_Pouches_By_77_8MG.jpg?v=1701182587",
+            "alt": "Watermelon Nicotine Pouches By 77 8MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": "5.49"
+}

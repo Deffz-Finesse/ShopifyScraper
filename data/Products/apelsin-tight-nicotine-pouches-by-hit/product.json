@@ -1,0 +1,68 @@
+{
+    "title": "Apelsin Tight Nicotine Pouches by HIT",
+    "handle": "apelsin-tight-nicotine-pouches-by-hit",
+    "vendor": "HIT",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "extra-strong",
+        "flavour-liquorice",
+        "flavour-main-dessert",
+        "flavour-main-drinks",
+        "flavour-main-fruity",
+        "flavour-main-menthol",
+        "flavour-main-spices",
+        "flavour-main-sweets",
+        "flavour-orange",
+        "HIT",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "sale",
+        "SKIP_AV",
+        "strength-14mg",
+        "strength-20mg",
+        "strong"
+    ],
+    "price": "2.99",
+    "description": "TRY HIT APELSIN TIGHT NICOTINE POUCHES Challenge your expectations with Apelsin Tight Nicotine Pouches by HIT , where orange flavour meets an extraordinary nicotine intensity. Brace yourself for an extra-strong kick seamlessly blended with the refreshing essence of juicy oranges. The flavour profile achieves a flawless equilibrium, striking a perfect balance between the natural sweetness and subtle sourness, creating a taste that is both authentic and invigorating. View all HIT Nicotine Pouches View all Fruity Pouches View all Extra Strong Pouches KEY FEATURES: Fruity flavoured nicotine pouches 14MG Per Pouch | 20MG Per Gram Perfect option for those looking to quit smoking Effective nicotine absorption Tobacco-free, smoke-free and vapour-free Suitable for all environments. MORE ABOUT APELSIN FLAVOURED NICOTINE POUCHES These pouches combine the natural, juicy orange flavour with an extra-strong nicotine hit (20 mg/g). The flavour profile is perfectly balanced, bringing out the sweetness of ripe oranges with a hint of sourness for a complete experience. MORE ABOUT HIT NICOTINE POUCHES GN Tobacco Sweden's HIT introduces an all-white, tobacco-free product boasting an exceptionally high nicotine level, drawing design inspiration from the bold and fierce black panther. For those seeking a departure from overly sweet or mundane white goods, HIT presents a range of five fruity and crisp flavours that promise to invigorate the palate. With options like Blackberry, Blueberry, Apelsin, Dr. Cherry, and Lemongrass, each carrying a potent 20 mg/g of nicotine. Additional Description Information: Brand Name: HIT Product Type: Nicotine Pouches Pouch Format: Slim Our Strength Rating: Extra Strong Nicotine Per Pouch 14 MG Nicotine Per Gram 20MG Flavour Name: Apelsin Tight Flavour: Fruity Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2023-12-07T21:42:11+00:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 44599834542306,
+            "product_id": 8241712333026,
+            "title": "Default Title",
+            "price": "2.99",
+            "sku": "HIT-APELSIN-TIGHT",
+            "position": 1,
+            "compare_at_price": "5.99",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2023-12-07T21:42:11+00:00",
+            "updated_at": "2024-10-18T03:32:15+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Apelsin_Tight_Nicotine_Pouches_by_HIT_20mg.jpg?v=1701985637",
+            "alt": "Apelsin Tight Nicotine Pouches by HIT 20mg",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": "5.99"
+}

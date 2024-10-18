@@ -1,0 +1,53 @@
+{
+    "title": "Barberry Strawberry Vanilla Collection Nicotine Pouches by KURWA",
+    "handle": "barberry-strawberry-vanilla-collection-nicotine-pouches-by-kurwa",
+    "vendor": "Discontinued",
+    "product_type": "Nico Pods",
+    "tags": [
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV"
+    ],
+    "price": "5.99",
+    "description": "TRY KURWA BARBERRY STRAWBERRY VANILLA COLLECTION NICOTINE POUCHES Barberry Strawberry Vanilla Collection Nicotine Pouches by Kurwa have a delicious flavour combination that will enchant your senses. This collection mixes the acidic enticement of barberries, the sweetness of strawberries, and the opulent warmth of vanilla to create an elegant and gratifying symphony of flavours. KEY FEATURES: Fruity flavoured nicotine pouches 19.6MG Extra Strong pouches Perfect option for those looking to quit smoking Effective nicotine absorption Tobacco-free, smoke-free and vapour-free Suitable for all environments. MORE ABOUT BARBERRY STRAWBERRY VANILLA FLAVOURED NICOTINE POUCHES Get ready to be charmed by the flavour combination that enchants your palate. Each bag perfectly encapsulates the soothing richness of vanilla, the sun-kissed sweetness of strawberries, and the tangy sophistication of barberries. The end product is a harmonious symphony of flavours that makes you feel indulgent and satisfied. MORE ABOUT KURWA COLLECTION NICOTINE POUCHES Each item in this line is painstakingly created to offer a distinctive flavour profile, accurate nicotine delivery, and contemporary convenience, guaranteeing a pleasurable and rewarding experience. The Collection Range offers a wide variety of mouthwatering flavours that appeal to a variety of palates. There is a flavour to suit every palette, from fruity bursts to cooling minty pleasures and refined combinations. Additional Description Information: Brand Name: KURWA Product Type: Nicotine Pouches Pouch Format: Slim Our Strength Rating: Strong Nicotine per Pouch (mg/pouch) 19.6 MG Flavour Name: Barberry Strawberry Vanilla Flavour: Fruity Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2023-09-07T09:56:15+01:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 44333919174882,
+            "product_id": 8148599603426,
+            "title": "Strong (19.6MG)",
+            "price": "5.99",
+            "sku": "KURWA-BARBERRY-STRAWBERRY-VANILLA",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Strong (19.6MG)",
+            "option2": null,
+            "option3": null,
+            "created_at": "2023-09-07T09:56:15+01:00",
+            "updated_at": "2024-10-18T03:32:23+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Barberry_Strawberry_Vanilla_Collection_Nicotine_Pouches_by_KURWA_19mg.jpg?v=1694703432",
+            "alt": "Barberry Strawberry Vanilla Collection Nicotine Pouches by KURWA 19mg",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

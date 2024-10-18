@@ -1,0 +1,66 @@
+{
+    "title": "Triple Mango Lost Mary Tappo Prefilled Pods",
+    "handle": "triple-mango-lost-mary-tappo-prefilled-pods",
+    "vendor": "Lost Mary",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "20mg",
+        "closed pods",
+        "Fruits",
+        "Mango",
+        "Pre-Filled Pods",
+        "Vape Pods"
+    ],
+    "price": "4.95",
+    "description": "Lost Mary Tappo Triple Mango Pre-filled Replacement Pods offer vapers three times the flavour with three different types of mango! The Triple Mango Lost Mary Tappo pods have been developed to provide customers with a next level tropical treat; the exquisite flavour of three exotic mangoes have been combined to create a juicy, fruity flavour that simply can’t be beaten! Each pack of Lost Mary Tappo pods has 2 prefilled replacement pods; each 2ml pod has been filled with a nicotine salt e liquid featuring a 20mg / 2% strength nicotine and a smooth, yet strong flavour. The Lost Mary Tappo pods are made to be used with the Tappo Pod Kit by Lost Mary . The Tappo pods are really easy to use, too - just push on the bottom of the Tappo pod until it sits flush and wait for around 60 seconds/1 minute before attempting to use the new pod in your vape. Lost Mary Tappo pods last for a maximum of 600 puffs each and once the Tappo Lost Mary pod has run out of e-liquid it will need to be removed and replaced with a new one. The Lost Mary Tappo pre-filled pods are a pack of two pods and as such they allow customers to enjoy up to 1200 puffs per pack - this is roughly the same amount of puffs as 2 single-use vapes, making the Lost Mary pods a cheap, convenient option for those that don’t wish to use disposable vapes . The Lost Mary Tappo replacement pods are available in more than 25 different flavours , with each based on the same popular flavours as the best selling BM600 disposable vapes . Lost Mary Tappo Flavours: Apple Watermelon Banana Ice Blue Razz Blue Sour Raspberry Cherry Cola Cherry Ice Double Apple Grape Kiwi PassionFruit Guava Lemon Ice Lemon and Lime Maryturbo Mix Berries Peach Ice Pineapple Ice Pineapple PassionFruit Lemon Red Cherry Silky Tobacco Spearmint Strawberry Ice Strawberry Raspberry Triple Mango Tropical Fruit USA Mix Watermelon Lost Mary Tappo Pre-filled Replacement Pod Features: Flavour : Mango Pod Capacity : 2ml Nicotine Strength : 20mg (2%) Nicotine Type : Nicotine Salts TPD Compliant Prefilled Pods Compatible with Lost Mary Tappo Pod Kit Lost Mary Tappo Package Contains: 2x Lost Mary Tappo Triple Mango Pre-filled Replacement Pods",
+    "created_at": "2024-03-14T14:49:53+00:00",
+    "updated_at": "2024-10-18T03:30:25+01:00",
+    "variants": [
+        {
+            "id": 43761904615593,
+            "product_id": 7940359553193,
+            "title": "Default Title",
+            "price": "4.95",
+            "sku": "LMTAPPTRMA",
+            "position": 1,
+            "inventory_policy": "deny",
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-03-14T14:49:53+00:00",
+            "updated_at": "2024-10-18T03:32:22+01:00",
+            "taxable": true,
+            "barcode": "6941976232924",
+            "grams": 50,
+            "image_id": null,
+            "weight": 0.05,
+            "weight_unit": "kg",
+            "inventory_quantity": 11,
+            "old_inventory_quantity": 11,
+            "requires_shipping": true,
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "price_currency": "GBP",
+            "compare_at_price_currency": "",
+            "quantity_price_breaks": []
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Lost-Mary-Tappo-Prefilled-Pods-Triple-Mango.jpg?v=1710821763",
+            "alt": "Triple Mango lost mary Tappo disposable vape",
+            "width": 1200,
+            "height": 1200
+        }
+    ],
+    "weight": 0.05,
+    "inventory_quantity": 11,
+    "compare_at_price": ""
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Raspberry Nicotine Pouches By 77",
+    "handle": "raspberry-nicotine-pouches-by-77",
+    "vendor": "77",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "77",
+        "extra-strong",
+        "flavour-blueberries",
+        "flavour-main-drinks",
+        "flavour-main-fruity",
+        "flavour-main-sweets",
+        "flavour-raspberry",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-13mg",
+        "strength-20mg",
+        "strong"
+    ],
+    "price": "3.99",
+    "description": "TRY 77 RASBERRY NICOTINE POUCHES Raspberry nicotine pouches by 77 are nicotine pouches with a wonderful and fresh taste of raspberry that is incredibly authentic. The only difference between these pouches and real raspberries would be the strong nicotine content. They are wonderful to satiate your cravings for something sweet. View all 77 Pouches View all Fruity Pouches View all Extra Strong Pouches KEY FEATURES: 20MG Per Gram | 13MG Per Pouch Raspberry-flavoured nicotine pouches Recommended for experienced users Tobacco-free, smoke-free and vapour-free 20 pouches in each can MORE ABOUT RASPBERRY-FLAVOURED NICOTINE POUCHES Raspberry is native to Europe, it is believed to originate from Greece, and archaeologists have found evidence of raspberries being eaten since the Paleolithic era. In Greek mythology, raspberries were first white, but Ida, Zeus´ nursery maid, pricked her finger on a thorn and stained the berries with her blood, thus making them and all the berries’ descendants red. The scientific name for raspberries is Rubus idaeus, which translates to “bramble bush of Ida”. MORE ABOUT 77 NICOTINE POUCHES 77 were the first polish brand of tobacco-free nicotine pouches. 77 offers one of the most diverse ranges of flavour on the market, 77 also hit the sweet spot with their nicotine levels. Switch up, switch down, mix and match – do whatever suits you best! Flavours range from different types of mint to peach, apple, strawberries, and even classic tobacco. Additional Description Information: Brand Name: 77Pouches Product Type: Nicotine Pouches Pouch Format: Large Our Strength Rating: Extra Strong Nicotine per Gram 20 MG Nicotine per Pouch 13 MG Flavour Name: Raspberry Flavour: Fruity Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2022-09-27T21:59:00+01:00",
+    "updated_at": "2024-10-18T03:07:27+01:00",
+    "variants": [
+        {
+            "id": 43438582857954,
+            "product_id": 7897311510754,
+            "title": "Default Title",
+            "price": "3.99",
+            "sku": "77-RASPBERRY",
+            "position": 1,
+            "compare_at_price": "5.49",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2022-09-27T21:59:00+01:00",
+            "updated_at": "2024-10-18T03:07:29+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Raspberry_Nicotine_Pouches_By_77_20MG.jpg?v=1701182667",
+            "alt": "Raspberry Nicotine Pouches By 77 20MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": "5.49"
+}

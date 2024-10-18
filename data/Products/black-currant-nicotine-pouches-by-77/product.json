@@ -1,0 +1,66 @@
+{
+    "title": "Blackcurrant Nicotine Pouches By 77",
+    "handle": "black-currant-nicotine-pouches-by-77",
+    "vendor": "77",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "77",
+        "extra-strong",
+        "flavour-berry",
+        "flavour-blackcurrant",
+        "flavour-blueberries",
+        "flavour-main-dessert",
+        "flavour-main-fruity",
+        "flavour-main-sweets",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "sale",
+        "SKIP_AV",
+        "strength-13mg",
+        "strength-20mg",
+        "strong"
+    ],
+    "price": "3.99",
+    "description": "TRY 77 BLACKCURRANT NICOTINE POUCHES Black Currant nicotine pouches by 77 is yummy blackcurrant. This all-white pouch has a succulent sweetness and a somewhat sour taste to it that tastes like ripe blackcurrant berries right from the bush. View all 77 Pouches View all Fruity Pouches View all Extra Strong Pouches KEY FEATURES: 20MG Per Gram | 13MG Per Pouch Black Currant flavoured nicotine pouches Recommended for experienced users Tobacco-free, smoke-free and vapour-free 20 pouches in each can MORE ABOUT BLACK CURRANT FLAVOURED NICOTINE POUCHES Black currant nicotine pouches are a deliciously fruity nicotine experience. Packed with the flavours of fresh black currant, the pouches' 20mg nicotine strength packs a real punch and is designed for experienced nicotine pouch users. MORE ABOUT 77 NICOTINE POUCHES 77 were the first polish brand of tobacco-free nicotine pouches. 77 offers one of the most diverse ranges of flavour on the market, 77 also hit the sweet spot with their nicotine levels. Switch up, switch down, mix and match – do whatever suits you best! Flavours range from different types of mint to peach, apple, strawberries, and even classic tobacco. Additional Description Information: Brand Name: 77Pouches Product Type: Nicotine Pouches Pouch Format: Large Our Strength Rating: Extra Strong Nicotine per Gram 20 MG Nicotine per Pouch 13 MG Flavour Name: Black Currant Flavour: Fruity Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2022-09-27T20:24:43+01:00",
+    "updated_at": "2024-10-18T03:07:27+01:00",
+    "variants": [
+        {
+            "id": 43438410367202,
+            "product_id": 7897259114722,
+            "title": "Default Title",
+            "price": "3.99",
+            "sku": "77-BLACK-CURANT",
+            "position": 1,
+            "compare_at_price": "5.49",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2022-09-27T20:24:43+01:00",
+            "updated_at": "2024-10-18T03:07:29+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Black_Currant_Nicotine_Pouches_By_77_20MG.jpg?v=1701182691",
+            "alt": "Black Currant Nicotine Pouches By 77 20MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": "5.49"
+}

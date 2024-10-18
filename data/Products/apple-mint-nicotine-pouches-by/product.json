@@ -1,0 +1,66 @@
+{
+    "title": "Apple & Mint Nicotine Pouches By 77",
+    "handle": "apple-mint-nicotine-pouches-by",
+    "vendor": "77",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "77",
+        "extra-strong",
+        "flavour-apple",
+        "flavour-main-dessert",
+        "flavour-main-fruity",
+        "flavour-main-menthol",
+        "flavour-main-sweets",
+        "flavour-mint",
+        "medium",
+        "Mix-&-Match",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-13mg",
+        "strength-20mg",
+        "strong"
+    ],
+    "price": "3.99",
+    "description": "TRY 77 APPLE & MINT NICOTINE POUCHES Apple & Mint nicotine pouches by 77 contain a delicious blend of apples and mint. The taste is refreshing and juicy thanks to the apples, and the mint offers a cooling effect, giving these pouches an extra kick. View all 77 Pouches View all Fruity Pouches View all Mint/Menthol Pouches View all Extra Strong Pouches KEY FEATURES: 20MG Per Gram | 13MG Per Pouch Apple & Mint flavoured nicotine pouches Recommended for experienced users Tobacco-free, smoke-free and vapour-free 20 pouches in each can MORE ABOUT APPLE-FLAVOURED NICOTINE POUCHES With a hearty apple and ice flavour tastes like one of the most popular fruits on the market. combined with excellent ice nicotine satisfaction. MORE ABOUT 77 NICOTINE POUCHES 77 were the first polish brand of tobacco-free nicotine pouches. 77 offers one of the most diverse ranges of flavour on the market, 77 also hit the sweet spot with their nicotine levels. Switch up, switch down, mix and match – do whatever suits you best! Flavours range from different types of mint to peach, apple, strawberries, and even classic tobacco. Additional Description Information: Brand Name: 77Pouches Product Type: Nicotine Pouches Pouch Format: Large Our Strength Rating: Extra Strong Nicotine per Gram 20 MG Nicotine per Pouch 13 MG Flavour Name: Apple & Mint Flavour: Fruity Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2022-09-26T22:07:55+01:00",
+    "updated_at": "2024-10-18T03:07:27+01:00",
+    "variants": [
+        {
+            "id": 43434385572066,
+            "product_id": 7895628349666,
+            "title": "Default Title",
+            "price": "3.99",
+            "sku": "77-APPLE-MINT",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2022-09-26T22:07:55+01:00",
+            "updated_at": "2024-10-18T03:07:29+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Apple_Mint_Nicotine_Pouches_By_77_20MG.jpg?v=1701182684",
+            "alt": "Apple & Mint Nicotine Pouches By 77 20MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

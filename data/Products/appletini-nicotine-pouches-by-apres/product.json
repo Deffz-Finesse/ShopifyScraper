@@ -1,0 +1,63 @@
+{
+    "title": "Appletini Nicotine Pouches by Après",
+    "handle": "appletini-nicotine-pouches-by-apres",
+    "vendor": "Après",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "Apres",
+        "flavour-apple",
+        "flavour-main-drinks",
+        "flavour-main-fruity",
+        "flavour-main-sweets",
+        "Mix-&-Match",
+        "new",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-15mg",
+        "strength-9mg",
+        "strong"
+    ],
+    "price": "6.99",
+    "description": "TRY APRÈS APPLETINI NICOTINE POUCHES Indulge in the irresistible pleasure of Appletini nicotine pouches by Après , immersing yourself in the captivating essence of freshly plucked apples. Get ready to embark on a flavorful adventure as each pouch unveils a perfectly balanced combination of sweet and sour notes, expertly crafted to capture the authentic essence of this beloved fruit. KEY FEATURES: Apple flavoured nicotine pouches Refreshing tingling sensation with each pouch 15mg nicotine strength (Strong) Tobacco-free, smoke-free and vapour-free Discreet and suitable for all occasions Excellent nicotine experience MORE ABOUT APPLE FLAVOURED NICOTINE POUCHES Immerse yourself in the delightful realm of apple-flavored nicotine pouches and explore a world where each pouch expertly captures the essence of this beloved fruit. Experience a sensory journey that harmoniously blends the sweet, ripe apple notes with a subtle tanginess, resulting in a captivating flavor fusion that is both enticing and invigorating with every breath. MORE ABOUT APRÈS NICOTINE POUCHES Après is a distinguished brand from Stockholm that offers a truly premium experience. They take pride in creating all products and packaging using plant-based materials, ensuring a sustainable and eco-friendly approach. What sets Après apart is that their products are completely tobacco-free, offering a refreshing alternative. PACKAGE CONTENTS 20 x Après Appletini Nicotine Pouches Additional Description Information: Brand Name: Après Product Type: Nicotine Pouches Pouch Format: Large Strength: Strong Nicotine per Pouch (mg/pouch): 15 MG Flavour Name: Appletini Flavour: Fruity Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2023-07-14T10:53:28+01:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 44166644334818,
+            "product_id": 8116637270242,
+            "title": "Strong (15MG)",
+            "price": "6.99",
+            "sku": "APRES-APPLETINI",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Strong (15MG)",
+            "option2": null,
+            "option3": null,
+            "created_at": "2023-07-14T10:53:28+01:00",
+            "updated_at": "2024-10-18T03:32:18+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/Appletini_Nicotine_Pouches_by_Apr_s_15MG.jpg?v=1694703581",
+            "alt": "Appletini Nicotine Pouches by Après 15MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}

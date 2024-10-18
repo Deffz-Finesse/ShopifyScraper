@@ -1,0 +1,66 @@
+{
+    "title": "Red Cherry Lost Mary Tappo Prefilled Pods",
+    "handle": "red-cherry-lost-mary-tappo-prefilled-pods",
+    "vendor": "Lost Mary",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "20mg",
+        "Berries",
+        "Cherry",
+        "closed pods",
+        "Pre-Filled Pods",
+        "Vape Pods"
+    ],
+    "price": "4.95",
+    "description": "Lost Mary Tappo Red Cherry Pre-filled Replacement Pods offer a rich, riot of flavour. The Red Cherry Lost Mary Tappo Pods are a sensationally sweet flavour featuring the charming notes of juicy red cherries and their distinctive, delicate taste. This is a pack of Lost Mary Tappo pods featuring two 2ml replacement pods; each pod has been preloaded with a flavoured nic salt vape juice in a 20mg nicotine strength (2%) which offers users next level satisfaction. The Lost Mary Tappo pods are compatible with the Tappo Pod Kit by L o st Mary , and using them couldn’t be simpler. To get started with the Lost Mary Tappo pods push in the bottom of the Tappo pod - once this is done wait for approximately one minute before slotting the pod into the device. The Lost Mary Tappo pods can last for a maximum of 600 puffs - after they’ve been used for 600 puffs the Tappo Lost Mary pod will need to be disposed of and replaced with a new one. As the Lost Mary Tappo pre-filled pods are a pack of two, they allow customers to enjoy up to 1200 puffs in total (per pack) - this is the equivalent of 2 single use vapes, making the Lost Mary pods a cheap, sustainable substitute to the use of disposable vapes . The Lost Mary Tappo replacement pods are available in more than 25 different flavours , with each based on the same popular flavours as the best selling BM600 disposable vapes - there are also new flavours still being released! Lost Mary Tappo Flavours: Apple Watermelon Banana Ice Blue Razz Blue Sour Raspberry Cherry Cola Cherry Ice Double Apple Grape Kiwi PassionFruit Guava Lemon Ice Lemon and Lime Maryturbo Mix Berries Peach Ice Pineapple Ice Pineapple PassionFruit Lemon Red Cherry Silky Tobacco Spearmint Strawberry Ice Strawberry Raspberry Triple Mango Tropical Fruit USA Mix Watermelon Lost Mary Tappo Pre-filled Replacement Pod Features: Flavour : Red Cherry Pod Capacity : 2ml Nicotine Strength : 20mg (2%) Nicotine Type : Nicotine Salts TPD Compliant Prefilled Pods Compatible with Lost Mary Tappo Pod Kit Lost Mary Tappo Package Contains: 2x Lost Mary Tappo Red Cherry Pre-filled Replacement Pods",
+    "created_at": "2024-03-14T14:50:12+00:00",
+    "updated_at": "2024-10-18T03:30:25+01:00",
+    "variants": [
+        {
+            "id": 43761904877737,
+            "product_id": 7940359782569,
+            "title": "Default Title",
+            "price": "4.95",
+            "sku": "LMTAPPRECH",
+            "position": 1,
+            "inventory_policy": "deny",
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-03-14T14:50:12+00:00",
+            "updated_at": "2024-10-18T03:32:23+01:00",
+            "taxable": true,
+            "barcode": "6941976232917",
+            "grams": 50,
+            "image_id": null,
+            "weight": 0.05,
+            "weight_unit": "kg",
+            "inventory_quantity": 9,
+            "old_inventory_quantity": 9,
+            "requires_shipping": true,
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "price_currency": "GBP",
+            "compare_at_price_currency": "",
+            "quantity_price_breaks": []
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Lost-Mary-Tappo-Prefilled-Pods-Red-Cherry.jpg?v=1710821703",
+            "alt": "Red Cherry lost mary Tappo disposable vape",
+            "width": 1200,
+            "height": 1200
+        }
+    ],
+    "weight": 0.05,
+    "inventory_quantity": 9,
+    "compare_at_price": ""
+}

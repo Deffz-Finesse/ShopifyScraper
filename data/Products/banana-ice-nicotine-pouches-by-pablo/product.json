@@ -1,0 +1,63 @@
+{
+    "title": "Banana Ice Nicotine Pouches by Pablo",
+    "handle": "banana-ice-nicotine-pouches-by-pablo",
+    "vendor": "Pablo",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "extra-strong",
+        "flavour-banana",
+        "flavour-main-fruity",
+        "flavour-main-sweets",
+        "flavour-mint",
+        "Mix-&-Match",
+        "new",
+        "nicotine-products",
+        "nicotine-warnings",
+        "pablo",
+        "SKIP_AV",
+        "strength-30mg",
+        "strength-50mg"
+    ],
+    "price": "3.99",
+    "description": "TRY PABLO BANANA ICE NICOTINE POUCHES Banana Ice Nicotine Pouches by Pablo provide a f lavour of sweet banana, thick skin and soft sweet flesh. A delicious flavour that you would expect from such a brand! Making this flavour a pleasure to use. This is a flavourful pouch. View all Pablo Pouches View all Fruity Pouches View all Mint/Menthol Pouches View all Extra Strong Pouches KEY FEATURES: 50mg Per Gram | 30mg Per Pouch Banana Ice flavoured nicotine pouches Refreshing tingling sensation with each pouch Tobacco-free, smoke-free and vapour-free Discreet and suitable for all occasions MORE ABOUT BANANA FLAVOURED NICOTINE POUCHES Refreshing and tropical, Pablo Exclusive Banana Ice has the familiar taste of bananas made invigoratingly ice cold and loaded with a ton of nicotine to make one of the strongest pouches out there. MORE ABOUT PABLO NICOTINE POUCHES Pablo have been providing effective nicotine experiences for years and are one of the most popular brands on the market. Each pouch fits securely under your lip, offering you a discreet and effective nicotine experience. Additional Description Information: Brand Name: Pablo Product Type: Nicotine Pouches Pouch Format: Slim Strength: Extra Strong Nicotine per Gram 50 MG Nicotine per Pouch 30 MG Flavour Name: Banana Ice Flavour: Fruity Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2022-11-04T11:24:36+00:00",
+    "updated_at": "2024-10-18T03:32:14+01:00",
+    "variants": [
+        {
+            "id": 43586316992738,
+            "product_id": 7940354113762,
+            "title": "Default Title",
+            "price": "3.99",
+            "sku": "PABLO-BANANA-ICE",
+            "position": 1,
+            "compare_at_price": "5.49",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2022-11-04T11:24:37+00:00",
+            "updated_at": "2024-10-18T03:32:23+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": "GBP"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/products/Banana_Ice_Nicotine_Pouches_by_Pablo_50MG.png?v=1694697595",
+            "alt": "Banana Ice Nicotine Pouches by Pablo 50MG",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": "5.49"
+}

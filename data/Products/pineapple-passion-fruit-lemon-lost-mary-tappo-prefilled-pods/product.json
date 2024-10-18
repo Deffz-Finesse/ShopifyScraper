@@ -1,0 +1,68 @@
+{
+    "title": "Pineapple Passion Fruit Lemon Lost Mary Tappo Prefilled Pods",
+    "handle": "pineapple-passion-fruit-lemon-lost-mary-tappo-prefilled-pods",
+    "vendor": "Lost Mary",
+    "product_type": "Vape Pods",
+    "tags": [
+        "1200 puffs",
+        "20mg",
+        "closed pods",
+        "Lemon",
+        "Passionfruit",
+        "Pineapple",
+        "Pre-Filled Pods",
+        "Tropical Fruits",
+        "Vape Pods"
+    ],
+    "price": "4.95",
+    "description": "Lost Mary Tappo Pineapple PassionFruit Lemon Pre-filled Replacement Pods are a bold blend of tropical and citrus fruits. The Pineapple PassionFruit Lemon Lost Mary Tappo pods feature a punchy blend of potent pineapple, tart yet sweet passion fruit and zesty lemon for an exquisite blend that’s sure to excite your taste buds and tempt you back time and again. Each pack of Lost Mary Tappo pods comes with two prefilled replacement pods inside; each 2ml pod has been filled with a nicotine salt e-liquid and boasts a nicotine strength of 20mg / 2%. The Lost Mary Tappo pods have been produced for the Tappo Pod Kit by Lost Mary . Using the Tappo pods is very simple, making them perfect for all types of vapers - to use the Tappo prefilled pods push on the bottom of the pod until it’s flush with the rest of the Tappo pod. Wait for around 60 seconds and then insert the new pod into your Lost Mary Tappo vape. The Lost Mary Tappo pre-filled pods are a pack of two pods that last for a maximum of 600 puffs each - once the Tappo Lost Mary pod has run out of liquid it will need to be removed and replaced with a new one; this allows customers to receive up to 1200 puffs per pack of pods. A pack of Lost Mary Tappo prefilled pods are able to provide roughly the same number of puffs as 2 disposable vapes . The Lost Mary Tappo replacement pods are available in more than 25 different flavours , with each based on the same popular flavours as the best selling BM600 disposable vapes . Lost Mary Tappo Flavours: Apple Watermelon Banana Ice Blue Razz Blue Sour Raspberry Cherry Cola Cherry Ice Double Apple Grape Kiwi PassionFruit Guava Lemon Ice Lemon and Lime Maryturbo Mix Berries Peach Ice Pineapple Ice Pineapple PassionFruit Lemon Red Cherry Silky Tobacco Spearmint Strawberry Ice Strawberry Raspberry Triple Mango Tropical Fruit USA Mix Watermelon Lost Mary Tappo Pre-filled Replacement Pod Features: Flavour : Pineapple, Passion Fruit, Lemon Pod Capacity : 2ml Nicotine Strength : 20mg (2%) Nicotine Type : Nicotine Salts TPD Compliant Prefilled Pods Compatible with Lost Mary Tappo Pod Kit Lost Mary Tappo Package Contains: 2x Lost Mary Tappo Pineapple PassionFruit Lemon Pre-filled Replacement Pods",
+    "created_at": "2024-03-14T14:49:05+00:00",
+    "updated_at": "2024-10-18T03:32:23+01:00",
+    "variants": [
+        {
+            "id": 43761904320681,
+            "product_id": 7940359291049,
+            "title": "Default Title",
+            "price": "4.95",
+            "sku": "LMTAPPPIPA",
+            "position": 1,
+            "inventory_policy": "deny",
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2024-03-14T14:49:05+00:00",
+            "updated_at": "2024-10-18T03:32:25+01:00",
+            "taxable": true,
+            "barcode": "6937643546432",
+            "grams": 50,
+            "image_id": null,
+            "weight": 0.05,
+            "weight_unit": "kg",
+            "inventory_quantity": 7,
+            "old_inventory_quantity": 7,
+            "requires_shipping": true,
+            "quantity_rule": {
+                "min": 1,
+                "max": null,
+                "increment": 1
+            },
+            "price_currency": "GBP",
+            "compare_at_price_currency": "",
+            "quantity_price_breaks": []
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0241/2241/files/Lost-Mary-Tappo-Prefilled-Pods-Pineapple-Passion-Fruit-Lemon.jpg?v=1710821677",
+            "alt": "Pineapple Passion Fruit Lemon lost mary Tappo disposable vape",
+            "width": 1200,
+            "height": 1200
+        }
+    ],
+    "weight": 0.05,
+    "inventory_quantity": 7,
+    "compare_at_price": ""
+}

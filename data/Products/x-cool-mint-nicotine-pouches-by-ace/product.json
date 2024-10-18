@@ -1,0 +1,59 @@
+{
+    "title": "X Cool Mint Nicotine Pouches by Ace",
+    "handle": "x-cool-mint-nicotine-pouches-by-ace",
+    "vendor": "Ace",
+    "product_type": "Nicotine Pouches UK",
+    "tags": [
+        "ace",
+        "flavour-main-menthol",
+        "flavour-mint",
+        "nicotine-products",
+        "nicotine-warnings",
+        "SKIP_AV",
+        "strength-18mg",
+        "strength-20mg",
+        "strong"
+    ],
+    "price": "5.99",
+    "description": "TRY ACE X COOL MINT NICOTINE POUCHES X Cool Mint Nicotine Pouches by Ace feature an explosion of cool mint flavour and sweet peppermint that will provide you with a sensational experience. Ace X Cool Mint is an Extra Strong nicotine pouch is one the strongest pouch on the market. View all Ace Nicotine Pouches View all Mint/Menthol Pouches View all Stong Pouches View all Medium Pouches KEY FEATURES: Cool mint and Peppermint flavoured nicotine pouches Designed for a strong nicotine kick Great substitute for cigarettes Tobacco-free, smoke-free and vapour-free Suitable for all environments 20MG Per Gram | 18mg Per Pouch MORE ABOUT PEPPERMINT FLAVOURED NICOTINE POUCHES Ace's X Cool Mint nicotine pouches pack a serious punch with their high nicotine content and intense menthol flavour. These pouches aren't for the faint hearted and are suitable for experience nicotine pouch users. MORE ABOUT NICOTINE POUCHES Ace's tobacco-free, slim nicotine pouches are perfect for discreet usage. Each pouch fits securely under your lip, offering you a discreet and effective nicotine experience. Ace's pouches are for experienced users and are available in a range of flavours, so make sure you check out the rest of the range. Additional Description Information: Brand Name: Ace Product Type: Nicotine Pouches Pouch Format: Slim Our Strength Rating: Strong Nicotine per Pouch (mg/pouch): 20 MG Flavour Name: X Cool Mint Flavour: Cool mint and peppermint Pouches per can: 20 Shipping from: London, UK",
+    "created_at": "2021-02-17T23:24:57+00:00",
+    "updated_at": "2024-10-18T03:23:10+01:00",
+    "variants": [
+        {
+            "id": 42296238014690,
+            "product_id": 6188570640543,
+            "title": "Default Title",
+            "price": "5.99",
+            "sku": "ACE-COOL-MINT-X-5DOTS",
+            "position": 1,
+            "compare_at_price": "",
+            "fulfillment_service": "manual",
+            "inventory_management": "shopify",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "created_at": "2022-01-11T21:27:24+00:00",
+            "updated_at": "2024-10-18T03:23:10+01:00",
+            "taxable": true,
+            "barcode": "",
+            "grams": 45,
+            "image_id": null,
+            "weight": 45.0,
+            "weight_unit": "g",
+            "requires_shipping": true,
+            "price_currency": "GBP",
+            "compare_at_price_currency": ""
+        }
+    ],
+    "images": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0521/8965/9295/files/X_Cool_Mint_Nicotine_Pouches_by_Ace_20mg_1.jpg?v=1718186557",
+            "alt": "X Cool Mint Nicotine Pouches by Ace 20mg",
+            "width": 800,
+            "height": 800
+        }
+    ],
+    "weight": 45.0,
+    "inventory_quantity": null,
+    "compare_at_price": ""
+}
